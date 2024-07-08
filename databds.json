@@ -1,0 +1,4308 @@
+[
+  {
+    "id": 806217,
+    "title": "Liền Kề Á Đông Xanh – “Tọa Độ Vàng” Khơi Thông Giá Trị Bất Động Sản",
+    "excerpt": "Hà Nam có nhiều lợi thế về hạ tầng giao thông, khu, cụm công nghiệp đã và đang là những điểm sáng, giúp nơi này thành tâm điểm đầu tư hấp dẫn thời gian qua.",
+    "slug": "lien-ke-a-dong-xanh-toa-do-vang-khoi-thong-gia-tri-bat-dong-san",
+    "link": "/lien-ke-a-dong-xanh-toa-do-vang-khoi-thong-gia-tri-bat-dong-san-pr-806217",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/a-dong-2.jpg",
+    "postDate": "2024-06-25 10:50:00",
+    "modifiedDate": "2024-06-25 11:46:24",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 806087,
+    "title": "Thực Hư Giá Thứ Cấp Chung Cư TP.HCM Tăng Trở Lại?",
+    "excerpt": "Giá thứ cấp chung cư TP.HCM 6 tháng đầu năm nay có xu hướng tăng cục bộ với một sộ dự án trung tâm, còn đa phần vẫn chưa có cải thiện trên diện rộng.",
+    "slug": "gia-chung-cu-tp-hcm-van-giam-tren-thi-truong-thu-cap-cd-hcm",
+    "link": "/gia-chung-cu-tp-hcm-van-giam-tren-thi-truong-thu-cap-cd-hcm-806087",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/2.jpeg",
+    "postDate": "2024-06-25 08:03:00",
+    "modifiedDate": "2024-06-25 09:05:33",
+    "location": "hcmc",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 438,
+        "name": "Thị trường BĐS TP.HCM",
+        "slug": "thi-truong-bds-tp-hcm",
+        "link": "/thi-truong-bds-tp-hcm",
+        "__typename": "Tag"
+      },
+      {
+        "id": 410,
+        "name": "Thị trường căn hộ TP.HCM",
+        "slug": "thi-truong-can-ho-tp-hcm",
+        "link": "/thi-truong-can-ho-tp-hcm",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 806194,
+    "title": "Beverly Hills Hạ Long - Bất Động Sản Mang Trải Nghiệm Độc Bản Xứng Tầm Được Giới Tinh Hoa Săn Đón",
+    "excerpt": "Khi phong cách sống đỉnh cao với những đặc quyền được cá nhân hóa trở thành tiêu chí tối thượng thì những bất động sản hạng sang ngày càng được giới thượng lưu săn đón. Hấp dẫn và đánh trúng tâm lý của tầng lớp tinh hoa, Beverly Hills Hạ Long tôn vinh vị thế của chủ nhân sở hữu, xứng đáng nằm trong Top bộ sưu tập bất động sản mang tầm biểu tượng.",
+    "slug": "beverly-hills-ha-long-bat-dong-san-mang-trai-nghiem-doc-ban-xung-tam-duoc-gioi-tinh-hoa-san-don",
+    "link": "/beverly-hills-ha-long-bat-dong-san-mang-trai-nghiem-doc-ban-xung-tam-duoc-gioi-tinh-hoa-san-don-pr-806194",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/anh-thumb-scaled.jpg",
+    "postDate": "2024-06-25 08:00:00",
+    "modifiedDate": "2024-06-24 17:36:20",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 806205,
+    "title": "Sắp Ra Mắt Căn Hộ Đế Vương Đẳng Cấp Bậc Nhất Việt Nam",
+    "excerpt": "6/2024, Golden Crown Hai Phong, tòa tháp vương miện vàng kiêu hãnh giữa lòng phố Cảng, sẽ chính thức hé lộ tuyệt tác căn hộ mẫu đế vương, một biểu tượng đỉnh cao của phong cách Bespoke Luxury.",
+    "slug": "sap-ra-mat-can-ho-de-vuong-dang-cap-bac-nhat-viet-nam",
+    "link": "/sap-ra-mat-can-ho-de-vuong-dang-cap-bac-nhat-viet-nam-pr-806205",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Picture4.png",
+    "postDate": "2024-06-25 07:50:00",
+    "modifiedDate": "2024-06-26 15:22:45",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 797424,
+    "title": "Thị Trường Bất Động Sản Hải Phòng Ghi Nhận Diễn Biến Tích Cực",
+    "excerpt": "Thị trường bất động sản Hải Phòng tháng 5/2024 ghi nhận sự tăng trưởng nhẹ so với tháng trước đó. Hiện Hải Phòng là một trong những thị trường bất động sản sôi nổi trên cả nước với lượng dự án mới dồi dào và tỉ lệ giao dịch khả quan. ",
+    "slug": "thi-truong-bat-dong-san-hai-phong-bat-tang-trong-dai-han",
+    "link": "/thi-truong-bat-dong-san-hai-phong-evr-797424",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/hai-phong-2.jpg",
+    "postDate": "2024-06-24 16:40:00",
+    "modifiedDate": "2024-06-25 10:56:02",
+    "location": "hai-phong",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 487,
+        "name": "Bất động sản Hải Phòng",
+        "slug": "bat-dong-san-hai-phong",
+        "link": "/bat-dong-san-hai-phong",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 806232,
+    "title": "Nam Long Công Bố Vận Hành Chuỗi Tiện Ích Tại Khu Đô Thị Waterpoint",
+    "excerpt": "Sáng 23/06, Nam Long đã chính thức ký kết và công bố chuỗi tiện ích về giáo dục, thương mại và y tế đưa vào vận hành tại khu đô thị Waterpoint.",
+    "slug": "nam-long-cong-bo-van-hanh-chuoi-tien-ich-tai-khu-do-thi-waterpoint",
+    "link": "/nam-long-cong-bo-van-hanh-chuoi-tien-ich-tai-khu-do-thi-waterpoint-806232",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/LEKYKET_WTP_00500-scaled.jpg",
+    "postDate": "2024-06-24 16:15:00",
+    "modifiedDate": "2024-06-24 16:34:08",
+    "location": "null",
+    "author": {
+      "id": 454,
+      "name": "Đông Phong",
+      "slug": "dongphong",
+      "link": "/dongphong",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/04/339047756_1217831175519413_3390576678926109585_n.jpg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 806187,
+    "title": "Đường Chạy Pitch Trên Cao Đầu Tiên Tại Hải Phòng: Nâng Tầm Bất Động Sản Hạng Sang",
+    "excerpt": "Golden Crown Hai Phong đã mang đến một tuyên ngôn đẳng cấp về sống khỏe, sống sang, đưa những trải nghiệm chăm sóc sức khỏe dành cho giới tinh hoa phố Cảng lên một tầm cao mới. Lần đầu tiên, tại Hải Phòng xuất hiện một đường chạy pitch trên cao giữa không gian xanh mát như rừng nhiệt đới",
+    "slug": "duong-chay-pitch-tren-cao-dau-tien-tai-hai-phong-nang-tam-bat-dong-san-hang-sang",
+    "link": "/duong-chay-pitch-tren-cao-dau-tien-tai-hai-phong-nang-tam-bat-dong-san-hang-sang-pr-806187",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Picture11.jpg",
+    "postDate": "2024-06-24 14:00:00",
+    "modifiedDate": "2024-06-24 14:54:12",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805833,
+    "title": "Vay Mua Nhà Vẫn Nhiều Khó Khăn",
+    "excerpt": "Đi vay mua nhà vẫn là chuyện khó khăn với nhiều người trong bối cảnh lãi suất thả nổi vẫn lên đến 11-13% và tiếp cận vốn vay không dễ.",
+    "slug": "vay-mua-nha-van-nhieu-kho-khan-cd-hcm",
+    "link": "/vay-mua-nha-van-nhieu-kho-khan-cd-hcm-805833",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/2-1-1699683770.jpg",
+    "postDate": "2024-06-24 11:01:00",
+    "modifiedDate": "2024-06-24 08:21:51",
+    "location": "null",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805338,
+    "title": "Đánh Giá Tiềm Năng Dự Án Richland Residence Tại Thành Phố Bến Cát (Bình Dương)",
+    "excerpt": "Bài viết cung cấp những thông tin chi tiết về vị trí, hạ tầng, tiện ích, giá bán, chính sách ưu đãi cũng như đánh giá khách quan tiềm năng, cơ hội đầu tư tại dự án khu đô thị Richland Residence của chủ đầu tư Kim Oanh Group. ",
+    "slug": "danh-gia-tiem-nang-du-an-richland-residence-tai-thanh-pho-ben-cat-binh-duong",
+    "link": "/danh-gia-tiem-nang-du-an-richland-residence-tai-thanh-pho-ben-cat-binh-duong-805338",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/DSC07958-copy-0-00-01-13.png",
+    "postDate": "2024-06-24 08:00:00",
+    "modifiedDate": "2024-06-24 09:48:20",
+    "location": "binh-duong",
+    "author": {
+      "id": 444,
+      "name": "Hải Âu",
+      "slug": "suongntn",
+      "link": "/suongntn",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805992,
+    "title": "VHALAND Hợp Tác Phát Triển Kinh Doanh Dự Án Dolce Penisola Quảng Bình",
+    "excerpt": "Bước vào giai đoạn phát triển mới, Dolce Penisola Quảng Bình không chỉ mang tới cơ hội đầu tư hấp dẫn cho nhà đầu tư mà còn góp phần mang đến những trải nghiệm nghỉ dưỡng độc đáo, mới lạ, hấp dẫn giúp Quảng Bình “thăng hạng” trên bản đồ du lịch thế giới. Công ty cổ phần Đầu tư Bất động sản VHA (VHA LAND) trở thành đơn vị Tư vấn phát triển kinh doanh tại dự án.",
+    "slug": "vhaland-hop-tac-phat-trien-kinh-doanh-du-an-dolce-penisola-quang-binh",
+    "link": "/vhaland-hop-tac-phat-trien-kinh-doanh-du-an-dolce-penisola-quang-binh-pr-805992",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/image1.png",
+    "postDate": "2024-06-21 07:50:00",
+    "modifiedDate": "2024-06-21 10:30:09",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805633,
+    "title": "Người Mua Nhà Vẫn Chờ Giá BĐS Giảm?",
+    "excerpt": "Giá BĐS đã có xu hướng tăng trong quý 2/2024 nhưng nhiều người mua nhà vẫn giữ tâm lý giá sẽ giảm thêm khiến thị trường kém giao dịch thực.",
+    "slug": "van-cho-gia-bds-giam-moi-mua-nha-cd-hcm",
+    "link": "/van-cho-gia-bds-giam-moi-mua-nha-cd-hcm-805633",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Hinh-2.-1-scaled.jpg",
+    "postDate": "2024-06-20 11:03:00",
+    "modifiedDate": "2024-06-20 09:11:36",
+    "location": "null",
+    "author": {
+      "id": 454,
+      "name": "Đông Phong",
+      "slug": "dongphong",
+      "link": "/dongphong",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/04/339047756_1217831175519413_3390576678926109585_n.jpg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 440,
+        "name": "Báo cáo tâm lý người dùng BĐS",
+        "slug": "bao-cao-tam-ly-nguoi-dung-bds",
+        "link": "/bao-cao-tam-ly-nguoi-dung-bds",
+        "__typename": "Tag"
+      },
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805922,
+    "title": "Thị Trường Bất Động Sản Tỉnh Rầm Rộ Dự Án Mới Trong Tháng 6/2024",
+    "excerpt": "Trong khi các thị trường trọng điểm về bất động sản như Hà Nội, TP.HCM vẫn trong tình trạng khan hiếm nguồn cung dự án mới thì các thị trường tỉnh liên tiếp đón nhận nguồn cung mới. Nguồn cung từ các dự án mới ở thị trường tỉnh đang góp phần kích thích sự sôi nổi của thị trường bất động sản.",
+    "slug": "thi-truong-bat-dong-san-tinh-ram-ro-du-an-moi-trong-thang-6-2024",
+    "link": "/thi-truong-bat-dong-san-tinh-ram-ro-don-du-an-moi-trong-thang-6-2024-805922",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/anh-2-4.jpg",
+    "postDate": "2024-06-20 09:38:00",
+    "modifiedDate": "2024-06-20 10:09:26",
+    "location": "null",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 354,
+        "name": "Bất động sản Hà Nội",
+        "slug": "bat-dong-san-ha-noi",
+        "link": "/bat-dong-san-ha-noi",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805457,
+    "title": "Nhà Ở Xã Hội Tại Hà Nội: Sẽ Bùng Nổ Nguồn Cung Trong Thời Gian Tới?",
+    "excerpt": "Nguồn cung nhà ở xã hội tại Hà Nội đang ghi nhận những tín hiệu tích cực khi một số dự án được đề xuất hoặc chuẩn bị triển khai. Việc Luật Nhà ở sửa đổi được Quốc hội thông qua với những điểm mới tích cực sẽ tiếp tục thúc đẩy nguồn cung phân khúc này.",
+    "slug": "nha-o-xa-hoi-tai-ha-noi-se-bung-no-nguon-cung-trong-thoi-gian-toi",
+    "link": "/nha-o-xa-hoi-tai-ha-noi-se-bung-no-nguon-cung-trong-thoi-gian-toi-cd-hn-805457",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/nha-o-xa-ho-1.jpg",
+    "postDate": "2024-06-20 09:01:00",
+    "modifiedDate": "2024-06-20 09:09:06",
+    "location": "hanoi",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 354,
+        "name": "Bất động sản Hà Nội",
+        "slug": "bat-dong-san-ha-noi",
+        "link": "/bat-dong-san-ha-noi",
+        "__typename": "Tag"
+      },
+      {
+        "id": 371,
+        "name": "Nhà ở xã hội",
+        "slug": "nha-o-xa-hoi",
+        "link": "/nha-o-xa-hoi",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805442,
+    "title": "Beverly Hills Hạ Long Chiếm Ưu Thế Cạnh Tranh Nhờ Vị Thế Độc Tôn, Giá Trị Độc Bản",
+    "excerpt": "Bất động sản số lượng hữu hạn được đầu tư bài bản tại những nơi có vị trí đắc địa luôn có sức hút đặc biệt. Đó cũng là lý do khiến Beverly Hills Hạ Long – quần thể biệt thự duy nhất định danh sở hữu trên đồi, tầm nhìn hướng vịnh gây “sốt” thị trường, được khách hàng đặc biệt quan tâm.",
+    "slug": "beverly-hills-ha-long-chiem-uu-the-canh-tranh-nho-vi-the-doc-ton-gia-tri-doc-ban",
+    "link": "/beverly-hills-ha-long-chiem-uu-the-canh-tranh-nho-vi-the-doc-ton-gia-tri-doc-ban-pr-805442",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/thumb-1.jpg",
+    "postDate": "2024-06-20 08:00:00",
+    "modifiedDate": "2024-06-18 09:10:31",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805804,
+    "title": "Yêu Cầu Trang Trí Nhà Xưởng Phòng Sạch",
+    "excerpt": "Trước khi trang trí nhà xưởng phòng sạch, trước tiên bạn phải xác nhận phương án trang trí, sau đó lắp đặt nội thất nhà xưởng theo bản vẽ để phân biệt các không gian khác nhau. Tiếp đó lắp đặt hệ thống thông gió, v.v. Sau đây là phần giới thiệu chi tiết về nhà xưởng phòng sạch, quá trình sắp xếp phân bố và xây dựng xưởng thanh lọc không bụi.",
+    "slug": "yeu-cau-trang-tri-nha-xuong-phong-sach",
+    "link": "/yeu-cau-trang-tri-nha-xuong-phong-sach-pr-805804",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Picture3.jpg",
+    "postDate": "2024-06-20 08:00:00",
+    "modifiedDate": "2024-06-20 10:06:00",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805627,
+    "title": "Chung Cư Hà Nội: Những Bảng Hàng Sơ Cấp Liên Tục Được “Đánh Bay”",
+    "excerpt": "Khan hiếm nguồn cung khiến các dự án chung cư Hà Nội ra hàng vào thời điểm này có lợi thế rất lớn trong việc chiếm lĩnh thị trường và xác lập tỉ lệ thanh khoản ấn tượng. Hướng tới nhu cầu ở thực – nhu cầu luôn nhức nhối của đại bộ phận dân chúng thành thị, chung cư Hà Nội tiếp tục là phân khúc “chiếm sóng” thị trường.",
+    "slug": "chung-cu-ha-noi-nhung-bang-hang-so-cap-lien-tuc-duoc-danh-bay",
+    "link": "/chung-cu-ha-noi-nhung-bang-hang-so-cap-lien-tuc-duoc-danh-bay-cd-hn-805627",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/anh-1-7.jpg",
+    "postDate": "2024-06-19 08:25:00",
+    "modifiedDate": "2024-06-20 14:14:17",
+    "location": "hanoi",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 354,
+        "name": "Bất động sản Hà Nội",
+        "slug": "bat-dong-san-ha-noi",
+        "link": "/bat-dong-san-ha-noi",
+        "__typename": "Tag"
+      },
+      {
+        "id": 520,
+        "name": "Diễn biến thị trường BĐS 2024",
+        "slug": "dien-bien-thi-truong-bds-2024",
+        "link": "/dien-bien-thi-truong-bds-2024",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 795249,
+    "title": "Long An: Nhà Đầu Tư Tìm Đất Thổ Cư, Không Mặn Mà Đất Nền Dự Án",
+    "excerpt": "Thị trường nhà đất Long An tháng 5 hồi phục tích cực ở loại hình nhà riêng, biệt thự, kho xưởng nhưng lại giảm với đất nền dự án.",
+    "slug": "nha-dau-tu-tim-dat-tho-cu-ngo-lo-dat-nen-du-an-long-an",
+    "link": "/thi-truong-nha-dat-long-an-evr-795249",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/wt-scaled.jpg",
+    "postDate": "2024-06-18 09:05:00",
+    "modifiedDate": "2024-06-18 09:29:05",
+    "location": "long-an",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      },
+      {
+        "id": 448,
+        "name": "Thị trường BĐS Long An",
+        "slug": "thi-truong-bds-long-an",
+        "link": "/thi-truong-bds-long-an",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805470,
+    "title": "Hé Lộ Thời Điểm Phục Hồi Của Từng Loại Hình Bất Động Sản",
+    "excerpt": "Dữ liệu thị trường bất động sản 6 tháng đầu năm của Batdongsan.com.vn đã đưa ra những thông tin đáng chú ý và dự báo về thời điểm phục hồi của từng loại hình bất động sản, dựa trên những diễn biến mang tính quy luật của chu kì trước đó.",
+    "slug": "he-lo-thoi-diem-phuc-hoi-cua-tung-loai-hinh-bat-dong-san",
+    "link": "/he-lo-thoi-diem-phuc-hoi-cua-tung-loai-hinh-bat-dong-san-cd-hn-805470",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/tt-to-quoc.jpg",
+    "postDate": "2024-06-18 08:27:00",
+    "modifiedDate": "2024-06-19 08:55:19",
+    "location": "null",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 794905,
+    "title": "Biến Động Giá Trên Thị Trường BĐS TP.HCM Tháng 5/2024",
+    "excerpt": "Thị trường BĐS TP.HCM trong tháng 5 đang có sự dịch chuyển nhu cầu mua về các quận huyện thuộc khu Tây Nam TP.HCM. Nhu cầu thuê vẫn đang tăng cao trong khi lượt tìm mua chưa có sự tăng trưởng mạnh.",
+    "slug": "thi-truong-bds-tp-hcm-thang-4-dut-mach-tang-cd-hcm",
+    "link": "/thi-truong-bds-tp-hcm-evr-794905",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/12-scaled.jpg",
+    "postDate": "2024-06-18 08:03:00",
+    "modifiedDate": "2024-06-17 16:41:27",
+    "location": "hcmc",
+    "author": {
+      "id": 454,
+      "name": "Đông Phong",
+      "slug": "dongphong",
+      "link": "/dongphong",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/04/339047756_1217831175519413_3390576678926109585_n.jpg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      },
+      {
+        "id": 438,
+        "name": "Thị trường BĐS TP.HCM",
+        "slug": "thi-truong-bds-tp-hcm",
+        "link": "/thi-truong-bds-tp-hcm",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805381,
+    "title": "Vân Đồn – “Tọa Độ Vàng” Hấp Dẫn Khách Du Lịch Hè 2024",
+    "excerpt": "Hạ tầng giao thông phát triển cùng hệ sinh thái nguyên sinh đa dạng, Vân Đồn và vịnh Bái Tử Long đang trở thành “tọa độ vàng” hấp dẫn du khách trong và ngoài nước với các tour, tuyến mới được đưa vào khai thác khám phá Rừng – Vịnh – Đảo giữa lòng di sản thiên nhiên thế giới.",
+    "slug": "van-don-toa-do-vang-hap-dan-khach-du-lich-he-2024",
+    "link": "/van-don-toa-do-vang-hap-dan-khach-du-lich-he-2024-pr-805381",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Anh-2.png",
+    "postDate": "2024-06-18 08:00:00",
+    "modifiedDate": "2024-06-18 09:00:20",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805211,
+    "title": "Lễ Khai Trương The Filmore Da Nang Khuấy Động Thị Trường Căn Hộ Hạng Sang",
+    "excerpt": "Một trong những dự án được kỳ vọng nhất thị trường Đà Nẵng đã chính thức khai trương, thu hút hơn 150 nhà đầu tư – kinh doanh bất động sản giàu kinh nghiệm hội tụ tại sự kiện. Đây cũng là dự án duy nhất hiện nay tại trung tâm thành phố Đà Nẵng đã hoàn thiện và đưa vào vận hành.",
+    "slug": "le-khai-truong-the-filmore-da-nang-khuay-dong-thi-truong-can-ho-hang-sang",
+    "link": "/le-khai-truong-the-filmore-da-nang-khuay-dong-thi-truong-can-ho-hang-sang-pr-805211",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Image-7.jpg",
+    "postDate": "2024-06-18 07:50:00",
+    "modifiedDate": "2024-06-17 08:28:31",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 795484,
+    "title": "Giá Đất Nền Đồng Nai Tăng Nhẹ, Biệt Thự/Nhà Phố Tiếp Tục Giảm Sâu",
+    "excerpt": "Nhà đất Đồng Nai trong tháng 5/2024 ghi nhận giá bán đất nền bắt đầu tăng nhẹ, trong khi biệt thự, shophouse và nhà phố vẫn giảm sâu còn chung cư thì duy trì ổn định.",
+    "slug": "nha-dat-dong-nai-evr",
+    "link": "/nha-dat-dong-nai-evr-795484",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/aqua-city-6779.jpeg",
+    "postDate": "2024-06-17 14:00:00",
+    "modifiedDate": "2024-06-17 14:22:51",
+    "location": "dong-nai",
+    "author": {
+      "id": 454,
+      "name": "Đông Phong",
+      "slug": "dongphong",
+      "link": "/dongphong",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/04/339047756_1217831175519413_3390576678926109585_n.jpg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      },
+      {
+        "id": 512,
+        "name": "Thị trường BĐS Đồng Nai",
+        "slug": "thi-truong-bds-dong-nai",
+        "link": "/thi-truong-bds-dong-nai",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805292,
+    "title": "Thị Trường Đất Nền Tỉnh: Nhà Đầu Tư Cắt Lỗ Vẫn Khó Thoát Hàng",
+    "excerpt": "Thị trường đất nền tỉnh từng là “địa hạt” được giới đầu tư quần thảo trong các cơn sốt đất khi thị trường bất động sản ở giai đoạn thịnh vượng. Thế nhưng, kể từ khi thị trường suy thoái đến nay, nhiều nhà đầu tư dù cắt lỗ vẫn không thoát được hàng tại các thị trường này.",
+    "slug": "thi-truong-dat-nen-tinh-nha-dau-tu-cat-lo-van-khong-thoat-duoc-hang",
+    "link": "/thi-truong-dat-nen-tinh-nha-dau-tu-cat-lo-van-khong-thoat-duoc-hang-cd-hn-805292",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/dat-nen-1.jpg",
+    "postDate": "2024-06-17 06:47:00",
+    "modifiedDate": "2024-06-17 10:43:50",
+    "location": "null",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 520,
+        "name": "Diễn biến thị trường BĐS 2024",
+        "slug": "dien-bien-thi-truong-bds-2024",
+        "link": "/dien-bien-thi-truong-bds-2024",
+        "__typename": "Tag"
+      },
+      {
+        "id": 433,
+        "name": "Thị trường đất nền",
+        "slug": "thi-truong-dat-nen",
+        "link": "/thi-truong-dat-nen",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805287,
+    "title": "Khởi Công Dự Án Khu Dân Cư An Huy Đức Hòa",
+    "excerpt": "Ngày 15/6, Công Ty Cổ Phần Địa Ốc An Huy đã tổ chức lễ khởi công xây dựng dự án An Huy Đức Hòa tại huyện Đức Hòa, tỉnh Long An.",
+    "slug": "khoi-cong-du-an-khu-dan-cu-an-huy-duc-hoa",
+    "link": "/khoi-cong-du-an-khu-dan-cu-an-huy-duc-hoa-805287",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/D75_84971.jpg",
+    "postDate": "2024-06-16 09:00:00",
+    "modifiedDate": "2024-06-21 11:35:09",
+    "location": "hcmc",
+    "author": {
+      "id": 454,
+      "name": "Đông Phong",
+      "slug": "dongphong",
+      "link": "/dongphong",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/04/339047756_1217831175519413_3390576678926109585_n.jpg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 448,
+        "name": "Thị trường BĐS Long An",
+        "slug": "thi-truong-bds-long-an",
+        "link": "/thi-truong-bds-long-an",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 798149,
+    "title": "BĐS Khánh Hòa Tháng 5: Thị Trường Cho Thuê Khởi Sắc",
+    "excerpt": "Trong tháng 4/2024, một số địa bàn tại Khánh Hòa ghi nhận lượt tìm kiếm giảm sâu. Sang tháng 5, thị trường bán vẫn chưa khởi sắc nhưng thị trường cho thuê tăng mạnh cả lượt tìm kiếm và lượng tin đăng.",
+    "slug": "cap-nhat-thi-truong-bds-khanh-hoa-thang-4-2024",
+    "link": "/thi-truong-bat-dong-san-khanh-hoa-evr-798149",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/bds-nha-trang-khanh-hoa.png",
+    "postDate": "2024-06-14 14:01:00",
+    "modifiedDate": "2024-06-14 18:24:59",
+    "location": "khanh-hoa",
+    "author": {
+      "id": 444,
+      "name": "Hải Âu",
+      "slug": "suongntn",
+      "link": "/suongntn",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      },
+      {
+        "id": 472,
+        "name": "Bất động sản Khánh Hòa",
+        "slug": "bat-dong-san-khanh-hoa",
+        "link": "/bat-dong-san-khanh-hoa",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805017,
+    "title": "Giao Dịch Đất Nền Vẫn Chưa Cải Thiện",
+    "excerpt": "Thị trường đất nền vẫn rơi cảnh ế ẩm, giao dịch chưa thực sự cải thiện trong tháng 5/2024.",
+    "slug": "thi-truong-dat-nen-van-e-cd-hcm",
+    "link": "/thi-truong-dat-nen-van-e-cd-hcm-805017",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/MicrosoftTeams-image-6.jpg",
+    "postDate": "2024-06-14 08:05:00",
+    "modifiedDate": "2024-06-14 09:27:54",
+    "location": "null",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 433,
+        "name": "Thị trường đất nền",
+        "slug": "thi-truong-dat-nen",
+        "link": "/thi-truong-dat-nen",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804940,
+    "title": "Tranh Thủ Ưu Đãi, Nhiều Người “Chốt” Mua Bất Động Sản Nhanh",
+    "excerpt": "Giao dịch BĐS cải thiện, người mua tranh thủ thời điểm thị trường còn giàu ưu đãi để tranh thủ chốt mua, nhiều dự án nhờ vậy ghi nhận giao dịch tích cực.",
+    "slug": "tranh-thu-uu-dai-nhieu-nguoi-chot-mua-bat-dong-san-nhanh-cd-hcm",
+    "link": "/giao-dich-bds-tang-khi-nhieu-nguoi-tranh-thu-mua-nha-cd-hcm-804940",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Picture3.1.jpg",
+    "postDate": "2024-06-13 14:15:00",
+    "modifiedDate": "2024-06-13 15:27:14",
+    "location": "hcmc",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 438,
+        "name": "Thị trường BĐS TP.HCM",
+        "slug": "thi-truong-bds-tp-hcm",
+        "link": "/thi-truong-bds-tp-hcm",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804958,
+    "title": "Tiêu Chí Chọn Mua Nhà Ngày Càng \"Khắt Khe\"",
+    "excerpt": "Mua nhà vùng ven ngày càng được nhiều người trẻ lựa chọn, không đơn giản chỉ vì giá mà tiêu chí sống nâng cao của các dự án vùng ven đang khiến thị trường này ghi điểm tích cực hơn.",
+    "slug": "tieu-chi-mua-nha-ngay-cang-khat-khe-cd-hcm",
+    "link": "/tieu-chi-mua-nha-ngay-cang-khat-khe-cd-hcm-804958",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/MG_9605-scaled.jpg",
+    "postDate": "2024-06-13 11:02:00",
+    "modifiedDate": "2024-06-13 15:27:44",
+    "location": "hcmc",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 438,
+        "name": "Thị trường BĐS TP.HCM",
+        "slug": "thi-truong-bds-tp-hcm",
+        "link": "/thi-truong-bds-tp-hcm",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805006,
+    "title": "Vì Sao Doanh Nghiệp Đua Nhau Làm Nhà Ở Vừa Túi Tiền?",
+    "excerpt": "Nhà ở vừa túi tiền, nhà ở nhà ở xã hội đang trở thành hướng đi chính của nhiều doanh nghiệp bất động sản từ năm 2024 nhằm nắm bắt nhu cầu lớn của người dân với loại hình này.",
+    "slug": "vi-sao-doanh-nghiep-dua-nhau-lam-nha-o-vua-tui-tien",
+    "link": "/dua-nhau-lam-nha-o-vua-tui-tien-cd-hcm-805006",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/DSC02596-scaled.jpg",
+    "postDate": "2024-06-13 08:12:00",
+    "modifiedDate": "2024-06-13 14:18:52",
+    "location": "null",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 450,
+        "name": "Thị trường căn hộ",
+        "slug": "thi-truong-can-ho",
+        "link": "/thi-truong-can-ho",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805043,
+    "title": "Masterise Homes Tiếp Tục Ghi Dấu Ấn Tại Thị Trường BĐS Hải Phòng",
+    "excerpt": "Tiếp nối thành công của những dự án quốc tế tại TP.HCM và Thủ đô Hà Nội, tháng 6 này, Masterise Homes công bố gia nhập thị trường bất động sản Hải Phòng với dự án mới mang tên: The Centric.",
+    "slug": "masterise-homes-tiep-tuc-ghi-dau-an-tai-thi-truong-bds-hai-phong",
+    "link": "/masterise-homes-tiep-tuc-ghi-dau-an-tai-thi-truong-bds-hai-phong-pr-805043",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Picture1-2.jpg",
+    "postDate": "2024-06-13 08:00:00",
+    "modifiedDate": "2024-06-13 16:37:29",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 805077,
+    "title": "Bất Động Sản Vào Mùa Khởi Động Dự Án Mới",
+    "excerpt": "Thị trường BĐS bước vào quý 3 với hàng loạt hoạt động công bố cùng những thương vụ ký kết hợp tác triển khai dự án mới.",
+    "slug": "thi-truong-bds-vao-mua-khoi-dong-du-an-moi-cd-hcm",
+    "link": "/thi-truong-bds-vao-mua-khoi-dong-du-an-moi-cd-hcm-805077",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/catlai_QD_1__1.jpeg",
+    "postDate": "2024-06-13 07:34:00",
+    "modifiedDate": "2024-06-13 10:54:37",
+    "location": "null",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 438,
+        "name": "Thị trường BĐS TP.HCM",
+        "slug": "thi-truong-bds-tp-hcm",
+        "link": "/thi-truong-bds-tp-hcm",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804939,
+    "title": "Môi Giới Bất Động Sản Ồ Ạt Quay Lại Với Nghề",
+    "excerpt": "Lượng môi giới bất động sản quay trở lại với nghề ngày càng đông đảo khi các tín hiệu khởi sắc của thị trường ngày một rõ nét. Bất động sản đang dần lấy lại vị thế của một ngành nghề nhiều sức hút trên thị trường.",
+    "slug": "moi-gioi-bat-dong-san-o-at-quay-lai-voi-nghe",
+    "link": "/moi-gioi-bat-dong-san-o-at-quay-lai-voi-nghe-cd-hn-804939",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/moi-gioi-2.jpg",
+    "postDate": "2024-06-12 15:30:00",
+    "modifiedDate": "2024-06-12 15:43:09",
+    "location": "hanoi",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 354,
+        "name": "Bất động sản Hà Nội",
+        "slug": "bat-dong-san-ha-noi",
+        "link": "/bat-dong-san-ha-noi",
+        "__typename": "Tag"
+      },
+      {
+        "id": 360,
+        "name": "Môi giới bất động sản",
+        "slug": "moi-gioi-bat-dong-san",
+        "link": "/moi-gioi-bat-dong-san",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804960,
+    "title": "Tháp Lưu Tro Cốt - Giải Quyết Bài Toán Về Nơi An Nghỉ Cho Người Đã Khuất",
+    "excerpt": "Tháp lưu tro cốt nổi lên như một biểu tượng tâm linh trong Phật giáo và văn hóa Việt Nam, đồng thời là giải pháp tối ưu về chi phí và diện tích.",
+    "slug": "thap-luu-tro-cot-giai-quyet-bai-toan-ve-noi-an-nghi-cho-nguoi-da-khuat",
+    "link": "/thap-luu-tro-cot-giai-quyet-bai-toan-ve-noi-an-nghi-cho-nguoi-da-khuat-pr-804960",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Anh-bia-Thumbnail.jpg",
+    "postDate": "2024-06-12 11:07:00",
+    "modifiedDate": "2024-06-12 15:24:25",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804839,
+    "title": "Tất Tật Thông Tin Về Vườn Nhật Vinhomes Smart City",
+    "excerpt": "Vườn Nhật Vihomes Smart City là địa điểm vui chơi yêu thích của nhiều bạn trẻ và gia đình có con nhỏ tại Hà Nội. Cùng khám phá xem địa điểm này có gì thu hút, giờ mở cửa, giá vé... tại đây ra sao nhé.",
+    "slug": "tat-tat-thong-tin-ve-vuon-nhat-vinhomes-smart-city",
+    "link": "/vuon-nhat-vinhomes-smart-city-804839",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/cong-vao-vuon-nhat.png",
+    "postDate": "2024-06-12 11:05:00",
+    "modifiedDate": "2024-06-18 09:49:56",
+    "location": "null",
+    "author": {
+      "id": 444,
+      "name": "Hải Âu",
+      "slug": "suongntn",
+      "link": "/suongntn",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804950,
+    "title": "“Đầu Tư Cho Tương Lai”: Sự Kiện Kết Nối Và Chia Sẻ Cơ Hội Đầu Tư Bất Động Sản 2024-2025",
+    "excerpt": "Ngày 01/06/2024 tại TP. Hồ Chí Minh và ngày 08/06/2024 tại Hà Nội, sự kiện \"Đầu tư cho tương lai\" do Keller Williams Việt Nam tổ chức đã diễn ra thành công tốt đẹp",
+    "slug": "dau-tu-cho-tuong-lai-toan-canh-su-kien-family-reunion-kwvn-2024",
+    "link": "/dau-tu-cho-tuong-lai-toan-canh-su-kien-family-reunion-kwvn-2024-804950",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Anh-3-anh-thumb-scaled.jpeg",
+    "postDate": "2024-06-12 11:00:00",
+    "modifiedDate": "2024-06-12 15:16:00",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804889,
+    "title": "Các Doanh Nghiệp Tiềm Năng Đón Làn Sóng Dịch Chuyển Về Phía Tây Hồ Tây",
+    "excerpt": "Trong bối cảnh giá thuê văn phòng ngày càng tăng cao và hạn chế của lõi đô thị chật hẹp, nhiều doanh nghiệp đang có xu hướng dịch chuyển văn phòng về khu vực trung tâm hành chính mới. Nổi bật, phải kể tới khu Tây Hồ Tây - nơi sở hữu những ưu điểm vượt trội từ hạ tầng giao thông hoàn thiện, cho tới môi trường làm việc lý tưởng.",
+    "slug": "cac-doanh-nghiep-tiem-nang-don-lan-song-dich-chuyen-ve-phia-tay-ho-tay",
+    "link": "/cac-doanh-nghiep-tiem-nang-don-lan-song-dich-chuyen-ve-phia-tay-ho-tay-pr-804889",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Heritage-Westlake_Garden-Office_Final-scaled.jpg",
+    "postDate": "2024-06-12 11:00:00",
+    "modifiedDate": "2024-06-12 12:43:03",
+    "location": "null",
+    "author": {
+      "id": 437,
+      "name": "Hà Linh",
+      "slug": "thomnt",
+      "link": "/thomnt",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804933,
+    "title": "Giữa Cơn Lốc Biến Thiên Vàng Và USD, Bất Động Sản Có Phải Kênh Trú Ẩn An Toàn?",
+    "excerpt": "Thị trường tài chính gần đây liên tục chứng kiến những biến động mạnh mẽ, giá vàng và USD liên tục tăng giảm thất thường, khiến nhà đầu tư hoang mang lo lắng: Giữa cơn lốc biến thiên vàng và USD, đâu là kênh đầu tư an toàn?",
+    "slug": "giua-con-loc-bien-thien-vang-va-usd-bat-dong-san-co-phai-kenh-tru-an-an-toan",
+    "link": "/giua-con-loc-bien-thien-vang-va-usd-bat-dong-san-co-phai-kenh-tru-an-an-toan-pr-804933",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/thumb.jpg",
+    "postDate": "2024-06-12 11:00:00",
+    "modifiedDate": "2024-06-12 11:10:50",
+    "location": "null",
+    "author": {
+      "id": 444,
+      "name": "Hải Âu",
+      "slug": "suongntn",
+      "link": "/suongntn",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804806,
+    "title": "Điểm \"Đảo Chiều” Của Từng Loại Hình BĐS Có Gì Đặc Biệt?",
+    "excerpt": "Lộ trình đảo chiều của các loại hình bất động sản sẽ được Batdongsan.com.vn dự báo trong báo cáo thị trường nửa đầu năm 2024 vào ngày 18/6.",
+    "slug": "diem-dao-chieu-cua-tung-loai-hinh-bds-se-nhu-the-nao",
+    "link": "/diem-dao-chieu-cua-tung-loai-hinh-bds-se-nhu-the-nao-804806",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/bao-cao-thi-truong-bat-dong-san.webp",
+    "postDate": "2024-06-11 10:58:45",
+    "modifiedDate": "2024-06-11 16:03:08",
+    "location": "null",
+    "author": {
+      "id": 444,
+      "name": "Hải Âu",
+      "slug": "suongntn",
+      "link": "/suongntn",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      },
+      {
+        "id": 520,
+        "name": "Diễn biến thị trường BĐS 2024",
+        "slug": "dien-bien-thi-truong-bds-2024",
+        "link": "/dien-bien-thi-truong-bds-2024",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804714,
+    "title": "Agora City, Giao Dịch Sôi Động Khẳng Định Sức Hút Của “Đô Thị Trung Tâm Hành Chính\"",
+    "excerpt": "Sáng ngày 09/06 vừa qua, tại sự kiện kỷ niệm 5 năm thành lập công ty, chủ đầu tư Thủ Thừa Invest tri ân khách hàng bằng nhiều chương trình ưu đãi hấp dẫn. Không khí giao dịch sôi động đã khẳng định tiềm năng và sức hút của Đô thị trung tâm hành chính Thủ Thừa, Long An - Agora City. ",
+    "slug": "agora-city-giao-dich-soi-dong-khang-dinh-suc-hut-cua-do-thi-trung-tam-hanh-chinh",
+    "link": "/agora-city-giao-dich-soi-dong-khang-dinh-suc-hut-cua-do-thi-trung-tam-hanh-chinh-pr-804714",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Agora-City1.jpg",
+    "postDate": "2024-06-11 07:50:00",
+    "modifiedDate": "2024-06-11 10:40:12",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 103041,
+    "title": "Cập Nhật Lãi Suất Vay Ngân Hàng Tháng 6/2024",
+    "excerpt": "Sang tháng 6, nhiều ngân hàng vẫn duy trì lãi suất cho vay ưu đãi giúp khách hàng tiếp cận nguồn vốn giá rẻ cho nhu cầu vay mua nhà, mua xe, vay tiêu dùng.",
+    "slug": "lai-suat-vay-mua-nha-ngan-hang-nao-thap-nhat",
+    "link": "/lai-suat-vay-mua-nha-ngan-hang-nao-thap-nhat-103041",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/BDS-LSCV-Thumbnail-2024-T6.png",
+    "postDate": "2024-06-10 18:00:00",
+    "modifiedDate": "2024-06-20 16:37:24",
+    "location": "null",
+    "author": {
+      "id": 437,
+      "name": "Hà Linh",
+      "slug": "thomnt",
+      "link": "/thomnt",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 364,
+        "name": "Lãi suất ngân hàng",
+        "slug": "lai-suat-ngan-hang",
+        "link": "/lai-suat-ngan-hang",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804348,
+    "title": "Lại 'Thổi' Giá Đất Nền Vùng Ven?",
+    "excerpt": "Đất nền vùng ven đang xuất hiện tình trạng bị môi giới và nhà đầu tư thổi giá bán dù thị trường này vẫn còn nhiều khó khăn và mới chập chững hồi sinh sau cơn “bạo bệnh” năm 2022-2023.",
+    "slug": "lai-thoi-gia-dat-nen-vung-ven-cd-hcm",
+    "link": "/dat-nen-vung-ven-lai-bi-thoi-gia-cd-hcm-804348",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Picture1.jpg",
+    "postDate": "2024-06-10 14:03:00",
+    "modifiedDate": "2024-06-11 09:27:20",
+    "location": "hcmc",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 433,
+        "name": "Thị trường đất nền",
+        "slug": "thi-truong-dat-nen",
+        "link": "/thi-truong-dat-nen",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804537,
+    "title": "Ưu Đãi Cực Lớn: Khuyến Mãi Tháng 6 Lên Đến 50% Từ Batdongsan.com.vn",
+    "excerpt": "Từ ngày 01/06 đến hết 30/06, Batdongsan.com.vn dành tặng ngay tài khoản khuyến mãi cực hời lên tới 50% trong thời gian diễn ra chương trình.",
+    "slug": "uu-dai-cuc-lon-khuyen-mai-thang-6-len-den-50-tu-batdongsan-com-vn",
+    "link": "/uu-dai-cuc-lon-khuyen-mai-thang-6-len-den-50-tu-batdongsan.com.vn-804537",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/BDS_CTKMT6_final.png",
+    "postDate": "2024-06-10 11:26:37",
+    "modifiedDate": "2024-06-10 11:27:52",
+    "location": "null",
+    "author": {
+      "id": 444,
+      "name": "Hải Âu",
+      "slug": "suongntn",
+      "link": "/suongntn",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804625,
+    "title": "Conic Trao Giấy Chứng Nhận Quyền Sở Hữu Căn Hộ Conic Riverside",
+    "excerpt": "Ngày 08/06/2024, Công ty Cổ Phần Xây Dựng Đầu Tư Và Phát Triển Lĩnh Phong – Conic, đã tiến hành bàn giao giấy chứng nhận quyền sở hữu nhà ở (giấy chứng nhận quyền sở hữu căn hộ) cho những cư dân đầu tiên tại khu căn hộ Conic Riverside (Lô 13B, KDC Conic, P. 7, Quận 8, Tp. HCM), theo đúng tiến độ cam kết.",
+    "slug": "conic-trao-giay-chung-nhan-quyen-so-huu-can-ho-conic-riverside",
+    "link": "/conic-trao-giay-chung-nhan-quyen-so-huu-can-ho-conic-riverside-804625",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/3-1.jpg",
+    "postDate": "2024-06-10 11:16:00",
+    "modifiedDate": "2024-06-10 15:14:58",
+    "location": "null",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804465,
+    "title": "Thép Xanh VAS Đạt Chứng Nhận Phát Triển Bền Vững – EPD",
+    "excerpt": "Theo đuổi mục tiêu ngành công nghiệp nặng “Xanh, Sạch” là một hành trình gian nan, đầy thử thách, đòi hỏi sự kiên định, Tâm thép vững vàng với tầm nhìn chiến lược dài hạn, đầu tư toàn diện về công nghệ sản xuất, nguồn lực tài chính & đội ngũ nhân sự. ",
+    "slug": "thep-xanh-vas-dat-chung-nhan-phat-trien-ben-vung-epd",
+    "link": "/thep-xanh-vas-dat-chung-nhan-phat-trien-ben-vung-epd-pr-804465",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/hinh-4.jpg",
+    "postDate": "2024-06-10 08:00:00",
+    "modifiedDate": "2024-06-11 08:49:28",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804497,
+    "title": "Giá Chung Cư Hà Nội Đã Thiết Lập Mặt Bằng Mới",
+    "excerpt": "Giá chung cư Hà Nội đã thiết lập mặt bằng mới khi ghi nhận lượng giao dịch dồi dào diễn ra ở cả thị trường sơ cấp và thứ cấp. Dù giao dịch đến thời điểm tháng 5/2024 có phần chững lại sau giai đoạn sốt nóng nhưng mặt bằng giá vẫn neo ở mức cao.",
+    "slug": "gia-chung-cu-ha-noi-da-thiet-lap-mat-bang-moi",
+    "link": "/gia-chung-cu-ha-noi-da-thiet-lap-mat-bang-moi-cd-hn-804497",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/anh-1-2.jpg",
+    "postDate": "2024-06-10 07:40:00",
+    "modifiedDate": "2024-06-10 07:40:47",
+    "location": "hanoi",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 354,
+        "name": "Bất động sản Hà Nội",
+        "slug": "bat-dong-san-ha-noi",
+        "link": "/bat-dong-san-ha-noi",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804514,
+    "title": "Bức Tranh Quy Hoạch Hạ Tầng Giao Thông Lào Cai: Điểm Nhấn Thu Hút Đầu Tư Trong Nước Và Quốc Tế",
+    "excerpt": "Tọa lạc tại vị trí chiến lược của khu vực Tây Bắc, những năm qua, Lào Cai đang vươn mình mạnh mẽ trở thành điểm đến hấp dẫn, thu hút sự chú ý của du khách trong nước và quốc tế. ",
+    "slug": "buc-tranh-quy-hoach-ha-tang-giao-thong-lao-cai-diem-nhan-thu-hut-dau-tu-trong-nuoc-va-quoc-te",
+    "link": "/buc-tranh-quy-hoach-ha-tang-giao-thong-lao-cai-diem-nhan-thu-hut-dau-tu-trong-nuoc-va-quoc-te-pr-804514",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/cao-toc-noi-bai-lao-cai.jpg",
+    "postDate": "2024-06-08 07:50:00",
+    "modifiedDate": "2024-06-08 10:43:21",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804524,
+    "title": "Khai Trương Trụ Sở Miền Nam - Tập Đoàn Nhà Phố Việt Nam Đánh Dấu Căn Cứ Trọng Điểm Trên Bản Đồ Toàn Quốc",
+    "excerpt": "Ngày 6/6 vừa qua, Tập Đoàn Nhà Phố Việt Nam khai trương văn phòng đầu tiên tại TP. Hồ Chí Minh, đây là bước đi đánh dấu cột mốc quan trọng trong hành trình hiện thực hóa chiến lược phủ xanh 63 tỉnh thành.",
+    "slug": "khai-truong-tru-so-mien-nam-tap-doan-nha-pho-danh-dau-can-cu-trong-diem-tren-ban-do-toan-quoc",
+    "link": "/khai-truong-tru-so-mien-nam-tap-doan-nha-pho-danh-dau-can-cu-trong-diem-tren-ban-do-toan-quoc-pr-804524",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/A%CC%89nh-1-NP.jpg",
+    "postDate": "2024-06-08 07:50:00",
+    "modifiedDate": "2024-06-13 14:06:49",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804455,
+    "title": "Bài Toán Đầu Tư Chắc Thắng: Lời Giải Từ Richland Residence",
+    "excerpt": "Với gói hỗ trợ tài chính tối ưu, khách hàng mua dự án Richland Residence chỉ cần bỏ ra số vốn ban đầu rất khiêm tốn là đã có thể thu về lợi nhuận hấp dẫn trong thời gian ngắn. Đây không chỉ là giải pháp đầu tư chắc thắng từ Kim Oanh Group mà còn rất an toàn bởi dự án đã hoàn chỉnh pháp lý và hạ tầng.",
+    "slug": "bai-toan-dau-tu-chac-thang-loi-giai-tu-richland-residence",
+    "link": "/bai-toan-dau-tu-chac-thang-loi-giai-tu-richland-residence-pr-804455",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/z5515310750604_423baa3ceb43c7f01770a11be4569516.jpg",
+    "postDate": "2024-06-07 10:50:00",
+    "modifiedDate": "2024-06-07 10:19:00",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804370,
+    "title": "Nhu Cầu Thuê Chung Cư TP.HCM Tăng Trở Lại",
+    "excerpt": "Giá và nhu cầu thuê chung cư TP.HCM đang bắt đầu có động thái tăng trong 5 tháng đầu năm, nhất là ở các dự án mới bàn giao.",
+    "slug": "nhu-cau-thue-chung-cu-tp-hcm-tang-tro-lai-cd-hcm",
+    "link": "/nhu-cau-thue-chung-cu-tp-hcm-tang-tro-lai-cd-hcm-804370",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/294711665_3260405620914181_1429864663448615992_n.jpg",
+    "postDate": "2024-06-07 10:25:00",
+    "modifiedDate": "2024-06-07 10:35:07",
+    "location": "hcmc",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 501,
+        "name": "Thị trường BĐS cho thuê TP.HCM",
+        "slug": "thi-truong-bds-cho-thue-tp-hcm",
+        "link": "/thi-truong-bds-cho-thue-tp-hcm",
+        "__typename": "Tag"
+      },
+      {
+        "id": 410,
+        "name": "Thị trường căn hộ TP.HCM",
+        "slug": "thi-truong-can-ho-tp-hcm",
+        "link": "/thi-truong-can-ho-tp-hcm",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804437,
+    "title": "KBank Ra Mắt Gói Ưu Đãi Vay Mua Nhà: Mở Cánh Cửa An Cư Cho Thế Hệ Trẻ Việt Nam",
+    "excerpt": "Trước xu hướng mua nhà ngày càng trẻ hóa và nhu cầu an cư ngày càng cao của giới trẻ Việt Nam, Ngân hàng Đại chúng TNHH Kasikornbank (KBank), ra mắt gói vay mua nhà ưu đãi với ưu đãi miễn lãi 3 tháng đầu tiên cùng nhiều chính sách hỗ trợ hấp dẫn.",
+    "slug": "kbank-ra-mat-goi-uu-dai-vay-mua-nha-mo-canh-cua-an-cu-cho-the-he-tre-viet-nam",
+    "link": "/kbank-ra-mat-goi-uu-dai-vay-mua-nha-mo-canh-cua-an-cu-cho-the-he-tre-viet-nam-804437",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/MicrosoftTeams-image-3.jpg",
+    "postDate": "2024-06-07 09:48:00",
+    "modifiedDate": "2024-06-07 10:18:01",
+    "location": "null",
+    "author": {
+      "id": 445,
+      "name": "Khánh Chi",
+      "slug": "annt3",
+      "link": "/annt3",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804282,
+    "title": "Kim Oanh Group Ký Kết Hợp Tác Phát Triển Dự Án Hơn 1 Tỷ USD Tại Nhật Bản",
+    "excerpt": "Ban lãnh đạo Kim Oanh Group vừa tiếp tục thực hiện việc ký kết với các đối tác tập đoàn Sumitomo Forestry, Kumagai Gumi, NTT Urban Development phát triển dự án Một Thế Giới - The One World ngay tại Nhật Bản, đồng thời chủ động tích lũy kinh nghiệm và đẩy nhanh hơn tiến trình triển khai dự án.",
+    "slug": "kim-oanh-group-ky-ket-hop-tac-phat-trien-du-an-hon-1-ty-usd-tai-nhat-ban",
+    "link": "/kim-oanh-group-ky-ket-hop-tac-phat-trien-du-an-hon-1-ty-usd-tai-nhat-ban-804282",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/Dai-dien-Kim-Oanh-Group-va-cac-doi-tac-tap-doan-Sumitomo-Forestry-Kumagai-Gumi-NTT-Urban-Development-trong-buoi-le-ky-ket-tai-Nhat-Ban-scaled.jpg",
+    "postDate": "2024-06-06 14:41:00",
+    "modifiedDate": "2024-06-06 14:54:10",
+    "location": "binh-duong",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804276,
+    "title": "Công Bố Hoạt Động Ngày Hội Môi Giới Bất Động Sản Việt Nam Và Ra Mắt Vars Awards 2024",
+    "excerpt": "Ngày 3/6, tại Hà Nội, Hội Môi giới Bất động sản Việt Nam (VARS) tổ chức Lễ Công bố hoạt động Ngày hội Môi giới Bất động sản Việt Nam, kết hợp ra mắt Vars Awards 2024, đồng thời công bố quyết định bổ nhiệm nhân sự mới của Vars. ",
+    "slug": "cong-bo-hoat-dong-ngay-hoi-moi-gioi-bat-dong-san-viet-nam-va-ra-mat-vars-awards-2024",
+    "link": "/cong-bo-hoat-dong-ngay-hoi-moi-gioi-bat-dong-san-viet-nam-va-ra-mat-vars-awards-2024-804276",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/hoi.jpg",
+    "postDate": "2024-06-04 11:15:43",
+    "modifiedDate": "2024-06-04 11:43:27",
+    "location": "null",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804242,
+    "title": "Mặt Bằng Trung Tâm TP.HCM Vắng Bóng, Shophouse Hút Khách Thuê",
+    "excerpt": "Các dự án căn hộ đã hoàn thiện ở khu vực cận trung tâm với mật độ dân cư đông, trong đó shophouse khối đế có thể khai thác cho thuê, kinh doanh ngay đang có lợi thế rõ nét ở giai đoạn này.",
+    "slug": "mat-bang-trung-tam-tp-hcm-vang-bong-shophouse-hut-khach-thue",
+    "link": "/mat-bang-trung-tam-tp.hcm-vang-bong-shophouse-hut-khach-thue-pr-804242",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/IMG_1726-scaled.jpg",
+    "postDate": "2024-06-04 09:00:00",
+    "modifiedDate": "2024-06-03 14:14:59",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804085,
+    "title": "Dù Giao Dịch Chững, Nhiều Chủ Nhà Kiên Quyết Không Hạ Giá Chung Cư",
+    "excerpt": "Thị trường chung cư Hà Nội hiện không còn “sốt nóng” như thời điểm đầu sau Tết Nguyên đán. Tuy nhiên, dù giảm nhiệt, giá chung cư Hà Nội vẫn đang “neo” ở mức cao. Nhiều chủ nhà kiên quyết không giảm giá dù thanh khoản của thị trường đang chững lại.",
+    "slug": "du-giao-dich-chung-nhieu-chu-nha-kien-quyet-khong-ha-gia-chung-cu",
+    "link": "/chung-cu-ha-noi-giao-dich-chung-chu-nha-kien-quyet-khong-ha-gia-cd-hn-804085",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/chung-cu-2-1.jpg",
+    "postDate": "2024-06-04 08:02:00",
+    "modifiedDate": "2024-06-03 13:19:53",
+    "location": "hanoi",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 354,
+        "name": "Bất động sản Hà Nội",
+        "slug": "bat-dong-san-ha-noi",
+        "link": "/bat-dong-san-ha-noi",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804135,
+    "title": "Chung Cư Mini Tiếp Tục Biến Động Sau Vụ Cháy Ở Trung Kính",
+    "excerpt": "Thị trường chung cư mini lại gặp khó sau vụ cháy xảy ra gần đây tại Hà Nội. Nhiều giao dịch mua bán chung cư mini đã bị hủy, ngừng lại sau vụ cháy này.",
+    "slug": "chung-cu-mini-tiep-tuc-bien-dong-sau-vu-chay-o-trung-kinh",
+    "link": "/chung-cu-mi-ni-tiep-tuc-bien-dong-sau-vu-chay-o-trung-kinh-cd-hn-804135",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/chung-cu-mini.jpg",
+    "postDate": "2024-06-03 14:01:00",
+    "modifiedDate": "2024-06-03 13:17:37",
+    "location": "hanoi",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 354,
+        "name": "Bất động sản Hà Nội",
+        "slug": "bat-dong-san-ha-noi",
+        "link": "/bat-dong-san-ha-noi",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804258,
+    "title": "Hai Loại Máy Đo Đất Mà Dân Bất Động Sản Nào Cũng Phải Biết",
+    "excerpt": "Là một môi giới bất động sản, bạn cần có những thiết bị để xác định chính xác vị trí, ranh giới hay diện tích của thửa đất. Đặc biệt, trong trường hợp khách hàng có tranh chấp ranh giới đất đai, bạn cần đến các thiết bị này để khẳng định tính chính xác. Bên cạnh đó, việc di chuyển thường xuyên, nên bạn cũng cần những thiết bị tích hợp nhiều tính năng và nhỏ gọn. Tham khảo ngay 2 loại máy đo đất mà dân bất động sản nào cũng nên có.",
+    "slug": "hai-loai-may-do-dat-ma-dan-bat-dong-san-nao-cung-phai-biet",
+    "link": "/hai-loai-may-do-dat-ma-dan-bat-dong-san-nao-cung-phai-biet-804258",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/06/h2.jpg",
+    "postDate": "2024-06-03 13:15:07",
+    "modifiedDate": "2024-06-03 15:37:22",
+    "location": "null",
+    "author": {
+      "id": 445,
+      "name": "Khánh Chi",
+      "slug": "annt3",
+      "link": "/annt3",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803897,
+    "title": "Cuộc Đua Giá Bán Trên Thị Trường BĐS Long An",
+    "excerpt": "Thị trường bất động sản Long An được cho là hồi sinh khi hàng loạt dự án mới mở bán, trong đó xuất hiện ngày càng nhiều các sản phẩm thuộc phân khúc giá cao.",
+    "slug": "thi-truong-bds-long-an-trong-cuoc-dua-ve-gia-cd-hcm",
+    "link": "/thi-truong-bds-long-an-trong-cuoc-dua-ve-gia-cd-hcm-803897",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/DSC02294-1-scaled.jpg",
+    "postDate": "2024-06-03 09:51:00",
+    "modifiedDate": "2024-06-03 09:54:37",
+    "location": "long-an",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 448,
+        "name": "Thị trường BĐS Long An",
+        "slug": "thi-truong-bds-long-an",
+        "link": "/thi-truong-bds-long-an",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 802474,
+    "title": "Batdongsan.com.vn Tặng Bảng Quảng Cáo Bán/Cho Thuê Nhà Miễn Phí Tại TP. HCM",
+    "excerpt": "Nếu bạn đang cần bán hay cho thuê nhà đất, đừng bỏ lỡ chương trình tặng bảng quảng cáo hoàn toàn miễn phí từ Batdongsan.com.vn.",
+    "slug": "batdongsan-com-vn-tang-bang-quang-cao-ban-cho-thue-nha-mien-phi-tai-tp-hcm",
+    "link": "/batdongsan.com.vn-tang-bang-quang-cao-bancho-thue-nha-mien-phi-tai-tp.-hcm-802474",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/MicrosoftTeams-image-3.jpg",
+    "postDate": "2024-06-03 06:30:00",
+    "modifiedDate": "2024-06-07 13:12:38",
+    "location": "null",
+    "author": {
+      "id": 444,
+      "name": "Hải Âu",
+      "slug": "suongntn",
+      "link": "/suongntn",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804070,
+    "title": "Từ Áp Lực Đến An Tâm: Hành Trình Mua Nhà Lần Đầu Của Cặp Vợ Chồng Trẻ",
+    "excerpt": "Mua nhà lần đầu là một cột mốc quan trọng cho cặp đôi trẻ Hải và Linh. Hành trình này càng đặc biệt hơn khi hai anh chị chuẩn bị đón đứa con đầu lòng. Niềm vui được làm cha mẹ xen lẫn áp lực về tổ ấm đã thôi thúc họ quyết định mua một căn nhà để ổn định cuộc sống. Tuy nhiên, với số vốn tích lũy còn hạn chế và thị trường nhà đất đầy biến động, họ đã trải qua không ít khó khăn và thử thách.",
+    "slug": "tu-ap-luc-den-an-tam-hanh-trinh-mua-nha-lan-dau-cua-cap-vo-chong-tre",
+    "link": "/hanh-trinh-mua-nha-lan-dau-cua-cap-vo-chong-tre-pr-804070",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/can-ho-1-3.jpg",
+    "postDate": "2024-05-31 16:12:15",
+    "modifiedDate": "2024-06-06 14:24:26",
+    "location": "null",
+    "author": {
+      "id": 445,
+      "name": "Khánh Chi",
+      "slug": "annt3",
+      "link": "/annt3",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 804027,
+    "title": "Đất Dịch Vụ Hà Nội Tăng Giá Nhẹ, Hút Giới Đầu Tư",
+    "excerpt": "Thị trường đất dịch vụ Hà Nội đang diễn biến khá tích cực khi giá bán tăng nhẹ ở một số khu vực. Lượng nhà đầu tư quan tâm tới đất dịch vụ có xu hướng tăng trong khoảng 2 tháng gần đây.",
+    "slug": "dat-dich-vu-ha-noi-tang-gia-nhe-hut-gioi-dau-tu",
+    "link": "/dat-dich-vu-ha-noi-tang-gia-nhe-hut-gioi-dau-tu-cd-hn-804027",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/dich-vu-2.png",
+    "postDate": "2024-05-31 11:41:00",
+    "modifiedDate": "2024-05-31 16:08:42",
+    "location": "hanoi",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 354,
+        "name": "Bất động sản Hà Nội",
+        "slug": "bat-dong-san-ha-noi",
+        "link": "/bat-dong-san-ha-noi",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803975,
+    "title": "Cuộc Sống Hơn Cả Nghỉ Dưỡng Giữa Mây Trời Phố Cảng Với Tầng Tiện Ích Cao 7m",
+    "excerpt": "Sở hữu tầng tiện ích 21 cao tới 7m mang đến những trải nghiệm chưa từng có tại phố Cảng như hệ thống Sky Onsen hay đường chạy pitch tiêu chuẩn quốc tế giữa vườn rừng nhiệt đới..., Golden Crown Hai Phong đỉnh cao của thiết kế không gian và đỉnh cao hưởng thụ.",
+    "slug": "cuoc-song-hon-ca-nghi-duong-giua-may-troi-pho-cang-voi-tang-tien-ich-cao-7m",
+    "link": "/cuoc-song-hon-ca-nghi-duong-giua-may-troi-pho-cang-voi-tang-tien-ich-cao-7m-pr-803975",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/3f.png",
+    "postDate": "2024-05-31 07:50:00",
+    "modifiedDate": "2024-05-30 16:55:51",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803900,
+    "title": "Những Yếu Tố Làm Nên Sự Thành Công Của Mô Hình Nhà Phố Tại Phổ Yên",
+    "excerpt": "Nhà phố là loại hình nhà ở quan trọng làm nên sức sống của khu đô thị, cũng là loại hình được giới đầu tư đặc biệt quan tâm vì có khả năng kinh doanh và sinh lời vượt trội. ",
+    "slug": "nhung-yeu-to-lam-nen-su-thanh-cong-cua-mo-hinh-nha-pho-tai-pho-yen",
+    "link": "/nhung-yeu-to-lam-nen-su-thanh-cong-cua-mo-hinh-nha-pho-tai-pho-yen-pr-803900",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/anh-2-3.jpg",
+    "postDate": "2024-05-31 07:50:00",
+    "modifiedDate": "2024-05-30 15:27:29",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803801,
+    "title": "Nhà Ở Xã Hội Sôi Nổi Nguồn Cung Mới",
+    "excerpt": "Thị trường nhà ở xã hội đang đón một loạt dự án mới trong khoảng 2 tháng gần đây. Nguồn cung của phân khúc này tiếp tục được bổ sung ở nhiều tỉnh, thành trên cả nước.",
+    "slug": "nha-o-xa-hoi-soi-noi-nguon-cung-moi",
+    "link": "/nha-o-xa-hoi-soi-noi-nguon-cung-moi-cd-hn-803801",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/nha-o-xa-hoi.jpg",
+    "postDate": "2024-05-30 14:03:00",
+    "modifiedDate": "2024-05-30 11:55:30",
+    "location": "null",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 371,
+        "name": "Nhà ở xã hội",
+        "slug": "nha-o-xa-hoi",
+        "link": "/nha-o-xa-hoi",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803916,
+    "title": "Golden Point – Dự Án Chiếm Trọn “Điểm Vàng” Kiến An, Hải Phòng",
+    "excerpt": "Nhờ nằm tại vị trí chiến lược, đón đầu quy hoạch thành phố Hải Phòng nói chung, quận Kiến An nói riêng, lại sở hữu tọa độ vàng nơi giao nhau của những tuyến đường huyết mạch, dự án Golden Point đang trở thành tâm điểm chú ý của giới đầu tư hiện nay.",
+    "slug": "golden-point-du-an-chiem-tron-diem-vang-kien-an-hai-phong",
+    "link": "/golden-point-du-an-chiem-tron-diem-vang-kien-an-hai-phong-pr-803916",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/Golden-Point1-1.jpg",
+    "postDate": "2024-05-30 13:50:00",
+    "modifiedDate": "2024-05-30 16:24:07",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803715,
+    "title": "Căn Hộ Studio Cháy Hàng Tại Nhiều Dự Án",
+    "excerpt": "Trong bối cảnh thị trường mua bán căn hộ chững lại thì căn hộ studio vẫn ghi nhận giao dịch tốt trên thị trường mua bán và cả thị trường cho thuê. Dòng sản phẩm này đang có hấp lực lớn với cả khách hàng mua ở thực và giới đầu tư.",
+    "slug": "can-ho-studio-chay-hang-tai-nhieu-du-an",
+    "link": "/can-ho-studio-chay-hang-tai-nhieu-du-an-cd-hn-803715",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/can-ho-2.png",
+    "postDate": "2024-05-30 11:03:00",
+    "modifiedDate": "2024-05-30 08:39:01",
+    "location": "hanoi",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 354,
+        "name": "Bất động sản Hà Nội",
+        "slug": "bat-dong-san-ha-noi",
+        "link": "/bat-dong-san-ha-noi",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803804,
+    "title": "SunValue Xuất Sắc Giành Giải Thưởng Danh Giá Thương Hiệu Mạnh Quốc Gia Năm 2024",
+    "excerpt": "Tiên phong ứng dụng công nghệ trong thẩm định giá và không ngừng nâng cao chất lượng dịch vụ, SunValue đã xuất sắc nhận giải thưởng danh giá Thương hiệu mạnh Quốc gia năm 2024, qua đó khẳng định vị thế hàng đầu của doanh nghiệp. ",
+    "slug": "sunvalue-xuat-sac-gianh-giai-thuong-danh-gia-thuong-hieu-manh-quoc-gia-nam-2024",
+    "link": "/sunvalue-xuat-sac-gianh-giai-thuong-danh-gia-thuong-hieu-manh-quoc-gia-nam-2024-pr-803804",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/ANH-BDS-1-ava.jpg",
+    "postDate": "2024-05-29 10:50:00",
+    "modifiedDate": "2024-05-29 13:51:10",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803647,
+    "title": "Căn Hộ Cho Thuê Hà Nội Được Giới Đầu Tư “Săn Lùng”",
+    "excerpt": "Giá căn hộ trên thị trường mua bán liên tục tăng cao đã thúc đẩy thị trường căn hộ cho thuê tiếp tục phát triển. thị trường cho thuê vẫn ghi nhận lực cầu dồi dào và được giới đầu tư săn lùng.",
+    "slug": "can-ho-cho-thue-ha-noi-duoc-gioi-dau-tu-san-lung",
+    "link": "/can-ho-cho-thue-duoc-gioi-dau-tu-san-lung-cd-hn-803647",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/can-ho-1.jpg",
+    "postDate": "2024-05-29 08:01:00",
+    "modifiedDate": "2024-05-29 08:53:02",
+    "location": "hanoi",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 354,
+        "name": "Bất động sản Hà Nội",
+        "slug": "bat-dong-san-ha-noi",
+        "link": "/bat-dong-san-ha-noi",
+        "__typename": "Tag"
+      },
+      {
+        "id": 443,
+        "name": "Thị trường cho thuê",
+        "slug": "thi-truong-cho-thue",
+        "link": "/thi-truong-cho-thue",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803564,
+    "title": "Giá Thuê Trọ Tại TP.HCM Tăng 20-30%",
+    "excerpt": "Giá thuê nhà trọ tại TP.HCM đang tăng khá mạnh 20-30% trong thời gian qua sau khi chững lại từ đầu năm. Nguyên nhân chính được cho là do thiếu hụt nguồn cung cho thuê mới.",
+    "slug": "gia-thue-tro-tai-tp-hcm-tang-chong-mat",
+    "link": "/gia-thue-tro-tai-tp-hcm-tang-cd-hcm-803564",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/duong-vanh-dai-3-tphcm-4.jpg",
+    "postDate": "2024-05-28 14:01:00",
+    "modifiedDate": "2024-05-29 08:42:46",
+    "location": "hcmc",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 438,
+        "name": "Thị trường BĐS TP.HCM",
+        "slug": "thi-truong-bds-tp-hcm",
+        "link": "/thi-truong-bds-tp-hcm",
+        "__typename": "Tag"
+      },
+      {
+        "id": 496,
+        "name": "Thuê nhà TP.HCM",
+        "slug": "thue-nha-tp-hcm",
+        "link": "/thue-nha-tp-hcm",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803502,
+    "title": "Vì Sao Giá Nhà Dự Báo Vẫn Tăng Cao?",
+    "excerpt": "Giá nhà tăng cao được nhìn nhận là do nhiều chủ đầu tư vẫn đang rao bán theo mức giá cho tương lai, không phải chỉ theo giá thị trường hiện tại.",
+    "slug": "noi-lo-gia-nha-tang-cao-cd-hcm",
+    "link": "/noi-lo-gia-nha-tang-cao-cd-hcm-803502",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/avatar1690341874077-1690341874896898623618.webp",
+    "postDate": "2024-05-28 08:26:00",
+    "modifiedDate": "2024-05-28 08:27:28",
+    "location": "hcmc",
+    "author": {
+      "id": 454,
+      "name": "Đông Phong",
+      "slug": "dongphong",
+      "link": "/dongphong",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/04/339047756_1217831175519413_3390576678926109585_n.jpg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 438,
+        "name": "Thị trường BĐS TP.HCM",
+        "slug": "thi-truong-bds-tp-hcm",
+        "link": "/thi-truong-bds-tp-hcm",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803420,
+    "title": "Lần Đầu Ra Mắt Gói Hội Viên Batdongsan.com.vn Giúp Tiết Kiệm Đến 30% Chi Phí Và Nhiều Lợi Ích Khác!",
+    "excerpt": "Đăng ký gói hội viên là một trong những xu hướng chính của nền kinh tế thương mại điện tử toàn cầu năm 2023. “Người tiêu dùng đang chuyển sang dùng các dịch vụ đăng ký theo gói để nhận về thêm giá trị, sự tiện lợi, và các sản phẩm được cá nhân hóa”, theo Forbes.",
+    "slug": "lan-dau-ra-mat-goi-hoi-vien-batdongsan-com-vn-giup-tiet-kiem-den-30-chi-phi-va-nhieu-loi-ich-khac",
+    "link": "/lan-dau-ra-mat-goi-hoi-vien-batdongsan.com.vn-giup-tiet-kiem-den-30-chi-phi-va-nhieu-loi-ich-khac-803420",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/goi-hoi-vien-ava.png",
+    "postDate": "2024-05-28 08:00:00",
+    "modifiedDate": "2024-05-27 16:16:08",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803599,
+    "title": "The Wisteria Đảm Bảo Sức Khỏe Vững Bền Cho Cư Dân Đô Thị",
+    "excerpt": "Khi chọn sinh sống tại The Wisteria, cư dân không chỉ nhận được một mái ấm, mà còn đón nhận thêm một tương lai khỏe mạnh và bền vững.",
+    "slug": "the-wisteria-dam-bao-suc-khoe-vung-ben-cho-cu-dan-do-thi",
+    "link": "/the-wisteria-dam-bao-suc-khoe-vung-ben-cho-cu-dan-do-thi-pr-803599",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/The-Wisteria2.jpg",
+    "postDate": "2024-05-28 07:50:00",
+    "modifiedDate": "2024-05-27 17:01:55",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803606,
+    "title": "Người Mua Nhà Luôn “Chọn Mặt Gửi Vàng”",
+    "excerpt": "Ngoài là bất động sản tiềm năng vượt trội, không gian sống chất lượng cao, người mua nhà luôn tìm kiếm những sản phẩm giá tốt, cùng với giá trị sinh lợi liền tay.",
+    "slug": "nguoi-mua-nha-luon-chon-mat-gui-vang",
+    "link": "/nguoi-mua-nha-luon-chon-mat-gui-vang-pr-803606",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/1.-Anh-1-scaled.jpg",
+    "postDate": "2024-05-28 07:50:00",
+    "modifiedDate": "2024-05-27 18:17:23",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803545,
+    "title": "Người Mua Ngày Càng Ưu Tiên Yếu Tố \"Giáo Dục\" Khi Chọn Nhà",
+    "excerpt": "Với người mua nhà ở thực, tiêu chí giáo dục đang dần từ “mong muốn” trở thành yếu tố “cần thiết” khi lựa chọn dự án BĐS để an cư.",
+    "slug": "nguoi-mua-ngay-cang-uu-tien-yeu-to-giao-duc-khi-chon-nha",
+    "link": "/nguoi-mua-nha-uu-tien-yeu-to-giao-duc-cd-hcm-803545",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/DSC02401-scaled.jpg",
+    "postDate": "2024-05-27 17:01:23",
+    "modifiedDate": "2024-05-28 13:31:41",
+    "location": "null",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 459,
+        "name": "Kinh nghiệm mua bán nhà",
+        "slug": "kinh-nghiem-mua-ban-nha",
+        "link": "/kinh-nghiem-mua-ban-nha",
+        "__typename": "Tag"
+      },
+      {
+        "id": 450,
+        "name": "Thị trường căn hộ",
+        "slug": "thi-truong-can-ho",
+        "link": "/thi-truong-can-ho",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803489,
+    "title": "Dòng Tiền Đáo Hạn Sổ Tiết Kiệm Đang Chảy Mạnh Vào Bất Động Sản",
+    "excerpt": "Dấu hiệu khởi sắc của thị trường bất động sản ngày càng rõ nét khi liên tiếp đón nhận những thông tin, diễn biến tích cực. Dòng tiền đang đổ mạnh vào bất động sản khi lãi suất ngân hàng vẫn thấp, nhiều người tiêu dùng sẵn sàng đáo hạn sổ tiết kiệm, tìm kiếm lợi nhuận cao hơn từ bất động sản.",
+    "slug": "dong-tien-dao-han-so-tiet-kiem-dang-chay-manh-vao-bat-dong-san",
+    "link": "/dong-tien-dao-han-so-tiet-kiem-dang-chay-manh-vao-bat-dong-san-cd-hn-803489",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/bds.vietnamnet.jpg",
+    "postDate": "2024-05-27 11:03:00",
+    "modifiedDate": "2024-05-27 11:11:02",
+    "location": "null",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 520,
+        "name": "Diễn biến thị trường BĐS 2024",
+        "slug": "dien-bien-thi-truong-bds-2024",
+        "link": "/dien-bien-thi-truong-bds-2024",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803410,
+    "title": "Sợ Bỏ Lỡ Ưu Đãi Tốt, Nhiều Người “Chốt” Mua Nhanh Bất Động Sản",
+    "excerpt": "Tâm lý sợ bỏ lỡ thời điểm tốt để mua nhà khiến nhiều khách hàng nhanh chóng “chốt đơn” ngay khi tìm được sản phẩm có giá trị, ưu đãi thực, có lợi cho dòng tiền đầu tư.",
+    "slug": "so-bo-lo-uu-dai-tot-nhieu-nguoi-chot-mua-nhanh-bat-dong-san",
+    "link": "/so-bo-lo-uu-dai-tot-nhieu-nguoi-chot-mua-nhanh-bat-dong-san-pr-803410",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/81.jpg",
+    "postDate": "2024-05-27 09:00:00",
+    "modifiedDate": "2024-05-24 11:52:23",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803466,
+    "title": "Eaton Park Chính Thức Công Bố, Khuấy Động Thị Trường Bất Động Sản TP.HCM",
+    "excerpt": "Sự kiện công bố  chính thức dự án  Eaton Park đầy ấn tượng của chủ đầu tư Gamuda Land vừa qua đã gây “bùng nổ” thị trường bất động sản (BĐS) từ Bắc chí Nam. Đây không chỉ là dự án tâm điểm của chủ đầu tư danh tiếng đến từ Malaysia, mà còn của khu Đông TP HCM, ra mắt trong năm nay. ",
+    "slug": "eaton-park-chinh-thuc-cong-bo-khuay-dong-thi-truong-bat-dong-san-tp-hcm",
+    "link": "/eaton-park-chinh-thuc-cong-bo-khuay-dong-thi-truong-bat-dong-san-tphcm-pr-803466",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/1-6.jpg",
+    "postDate": "2024-05-25 07:50:00",
+    "modifiedDate": "2024-05-24 18:33:15",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803433,
+    "title": "Hơn 100.000 Doanh Nghiệp, Nhà Môi Giới BĐS Hướng Về Ngày Hội Môi Giới BĐS Việt Nam 2024",
+    "excerpt": "Ngày 28-29/6 tới đây, tại TP.HCM sẽ diễn ra Ngày hội Môi giới bất động sản Việt Nam 2024. Sự kiện do Hội Môi giới bất động sản Việt Nam tổ chức, VARs Connect triển khai thực hiện dưới sự chỉ đạo và bảo trợ của Hiệp hội Bất động sản Việt Nam, Bộ Xây dựng.",
+    "slug": "hon-100-000-doanh-nghiep-nha-moi-gioi-bds-huong-ve-ngay-hoi-moi-gioi-bds-viet-nam-2024",
+    "link": "/hon-100.000-doanh-nghiep-nha-moi-gioi-bds-huong-ve-ngay-hoi-moi-gioi-bds-viet-nam-2024-803433",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/1-5.jpg",
+    "postDate": "2024-05-24 11:57:32",
+    "modifiedDate": "2024-05-24 16:13:42",
+    "location": "null",
+    "author": {
+      "id": 445,
+      "name": "Khánh Chi",
+      "slug": "annt3",
+      "link": "/annt3",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803395,
+    "title": "Thị Trường Bất Động Sản Khánh Hòa Đang Phục Hồi Mạnh Mẽ",
+    "excerpt": "Sau một thời gian dài khó khăn chung theo tình hình thị trường cả nước, hiện BĐS Khánh Hòa đang có những chuyển biến đầy tích cực. BĐS Khánh Hoà đang sở hữu những tiềm năng rất lớn để tăng trưởng mạnh mẽ trong thời gian tới.",
+    "slug": "thi-truong-bat-dong-san-khanh-hoa-dang-phuc-hoi-manh-me",
+    "link": "/thi-truong-bat-dong-san-khanh-hoa-dang-phuc-hoi-manh-me-cd-hn-803395",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/bat-dong-san-Khanh-Hoa-1.jpg",
+    "postDate": "2024-05-24 00:00:00",
+    "modifiedDate": "2024-05-24 12:00:47",
+    "location": "khanh-hoa",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 472,
+        "name": "Bất động sản Khánh Hòa",
+        "slug": "bat-dong-san-khanh-hoa",
+        "link": "/bat-dong-san-khanh-hoa",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803374,
+    "title": "Batdongsan.com.vn Sắp Công Bố Báo Cáo Thị Trường BĐS Nửa Đầu Năm 2024",
+    "excerpt": "Trong 6 tháng đầu năm 2024, thị trường bất động sản đang được “tiếp sức” với các dấu hiệu tích cực về tâm lý người mua, chính sách, pháp lý cũng như ưu đãi lãi suất cho vay từ các ngân hàng.",
+    "slug": "batdongsan-com-vn-sap-cong-bo-bao-cao-thi-truong-bds-nua-dau-nam-2024",
+    "link": "/batdongsan.com.vn-sap-cong-bo-bao-cao-thi-truong-bds-nua-dau-nam-2024-803374",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/ong-bach-duong-tong-giam-doc-batdongsancomvn20231214162512-1.jpg",
+    "postDate": "2024-05-23 15:00:39",
+    "modifiedDate": "2024-05-23 17:17:47",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 802794,
+    "title": "BĐS Trung Tâm Khan Hiếm, Khu Tây Nam Sở Hữu Tiềm Năng Nổi Bật",
+    "excerpt": "BĐS thuộc khu trung tâm sở hữu nhu cầu về căn hộ cực kỳ lớn, nhờ quy mô dân số, tiện ích phù hợp với lối sống của người dân trong khu vực lẫn người nhập cư, hạ tầng kết nối thuận tiện đến những khu vực lân cận.",
+    "slug": "bds-trung-tam-khan-hiem-khu-tay-nam-so-huu-tiem-nang-noi-bat",
+    "link": "/bds-trung-tam-khan-hiem-khu-tay-nam-so-huu-tiem-nang-noi-bat-pr-802794",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/1-4.jpg",
+    "postDate": "2024-05-23 07:50:00",
+    "modifiedDate": "2024-05-15 14:20:39",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 795796,
+    "title": "Nhu Cầu Chung Cư, Đất Nền Bình Dương Hạ Nhiệt",
+    "excerpt": "Tháng 4, nhà đất Bình Dương ghi nhận giảm sâu nhu cầu tìm mua với loại hình đất nền và căn hộ chung cư.",
+    "slug": "chung-cu-dat-nen-binh-duong-lai-bi-che",
+    "link": "/nha-dat-binh-duong-evr-795796",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/03/FI0_5322.png",
+    "postDate": "2024-05-22 14:01:00",
+    "modifiedDate": "2024-05-22 14:33:01",
+    "location": "binh-duong",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      },
+      {
+        "id": 457,
+        "name": "Thị trường BĐS Bình Dương",
+        "slug": "thi-truong-bds-binh-duong",
+        "link": "/thi-truong-bds-binh-duong",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803270,
+    "title": "Ấn Tượng Không Gian Sống Đậm Chất Đương Đại Tại Căn Hộ Thu Thiem Zeit River",
+    "excerpt": "Với mục tiêu dẫn dắt cộng đồng tinh hoa chạm đến nhịp sống đương đại, Thu Thiem Zeit River mang đến một không gian sống hoàn hảo, nơi sự tiện nghi hòa cùng thiên nhiên, sự riêng tư và an toàn được ưu tiên hàng đầu.",
+    "slug": "an-tuong-khong-gian-song-dam-chat-duong-dai-tai-can-ho-thu-thiem-zeit-river",
+    "link": "/an-tuong-khong-gian-song-dam-chat-duong-dai-tai-can-ho-thu-thiem-zeit-river-803270",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/anh-2-2.jpg",
+    "postDate": "2024-05-22 11:00:00",
+    "modifiedDate": "2024-05-22 11:25:43",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803281,
+    "title": "Bất Động Sản Tây Hà Nội Tăng Sức Nóng Khi Thêm Nguồn Cung Giá Trị Thực",
+    "excerpt": "Nguồn cung mới chất lượng được bổ sung khiến thị trường Tây Hà Nội tăng sức nóng, đặc biệt trong bối cảnh quỹ đất đẹp khan hiếm và ít sự lựa chọn các sản phẩm giá trị thực.",
+    "slug": "bat-dong-san-tay-ha-noi-tang-suc-nong-khi-them-nguon-cung-gia-tri-thuc",
+    "link": "/bat-dong-san-tay-ha-noi-tang-suc-nong-khi-them-nguon-cung-gia-tri-thuc-pr-803281",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/Atmos1.png",
+    "postDate": "2024-05-22 10:50:00",
+    "modifiedDate": "2024-05-22 08:24:46",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 802898,
+    "title": "Căn Hộ Hoàn Thiện Tại TP.HCM Vẫn Có Chính Sách Ưu Đãi Tốt",
+    "excerpt": "Trong quý 2, nhiều chủ đầu tư vẫn áp dụng chính sách ưu đãi thanh toán, cam kết lợi nhuận với các dự án căn hộ hoàn thiện, đã bàn giao, điều vốn trước nay chỉ được áp dụng cho các dự án đang triển khai theo tiến độ.",
+    "slug": "can-ho-hoan-thien-van-duoc-ap-uu-dai-mua-nha-cd-hcm",
+    "link": "/can-ho-hoan-thien-van-duoc-ap-uu-dai-mua-nha-cd-hcm-802898",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/Mk-scaled.jpg",
+    "postDate": "2024-05-21 08:46:00",
+    "modifiedDate": "2024-05-21 08:49:51",
+    "location": "hcmc",
+    "author": {
+      "id": 454,
+      "name": "Đông Phong",
+      "slug": "dongphong",
+      "link": "/dongphong",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/04/339047756_1217831175519413_3390576678926109585_n.jpg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 353,
+        "name": "Bất động sản TP.HCM",
+        "slug": "bat-dong-san-tp-hcm",
+        "link": "/bat-dong-san-tp-hcm",
+        "__typename": "Tag"
+      },
+      {
+        "id": 520,
+        "name": "Diễn biến thị trường BĐS 2024",
+        "slug": "dien-bien-thi-truong-bds-2024",
+        "link": "/dien-bien-thi-truong-bds-2024",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 795400,
+    "title": "Thị Trường Chung Cư Hà Nội Tháng 4/2024: Bắt Đầu Giảm Tốc",
+    "excerpt": "Thị trường chung cư Hà Nội tháng 4/2024 sụt giảm cả mức độ quan tâm và lượng tin đăng. Đà tăng giá liên tiếp của chung cư trong các tháng đầu năm khiến không ít người tạm gác dự định mua nhà.",
+    "slug": "thi-truong-chung-cu-ha-noi-thang-2-2024-sut-giam-moi-quan-tam-va-luong-tin-dang",
+    "link": "/thi-truong-chung-cu-ha-noi-evr-795400",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/chung-cu-2.webp",
+    "postDate": "2024-05-21 08:15:00",
+    "modifiedDate": "2024-05-23 15:11:26",
+    "location": "hanoi",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      },
+      {
+        "id": 354,
+        "name": "Bất động sản Hà Nội",
+        "slug": "bat-dong-san-ha-noi",
+        "link": "/bat-dong-san-ha-noi",
+        "__typename": "Tag"
+      },
+      {
+        "id": 450,
+        "name": "Thị trường căn hộ",
+        "slug": "thi-truong-can-ho",
+        "link": "/thi-truong-can-ho",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803111,
+    "title": "Tập Đoàn Nhà Phố Việt Nam – Hành Trình Hội Tụ Những Nhà Môi Giới Triệu Đô",
+    "excerpt": "Với ngọn lửa khát vọng kiến tạo cộng đồng thịnh vượng; cùng với sự thấu hiểu sâu sắc nhu cầu của khách hàng và thị trường, Tập Đoàn Bất Động Sản Nhà Phố Việt Nam đang có những bước tiến nhanh chóng và mạnh mẽ trên Hành trình hội tụ những nhà môi giới triệu đô toàn quốc.",
+    "slug": "tap-doan-nha-pho-viet-nam-hanh-trinh-hoi-tu-nhung-nha-moi-gioi-trieu-do",
+    "link": "/tap-doan-nha-pho-viet-nam-hanh-trinh-hoi-tu-nhung-nha-moi-gioi-trieu-do-pr-803111",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/No%CC%A3%CC%82i-dung-doa%CC%A3n-va%CC%86n-ba%CC%89n-cu%CC%89a-ba%CC%A3n-1.png",
+    "postDate": "2024-05-21 07:50:00",
+    "modifiedDate": "2024-05-21 08:06:34",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803127,
+    "title": "Crystal Holidays Harbour Vân Đồn – “Viên Kim Cương” Bất Động Sản Thương Cảng",
+    "excerpt": "Nổi bật giữa trung tâm thương cảng Vân Đồn, dự án Crystal Holidays Harbour Vân Đồn tọa lạc đầy kiêu hãnh bên bờ vịnh Bái Tử Long. Dự án thừa hưởng mọi yếu tố thiên thời, địa lợi để trở thành điểm nhấn biểu tượng của thành phố mới Vân Đồn trong tương lai, là “viên kim cương” vô giá của bất động sản thương cảng Vân Đồn trên hành trình tìm lại lại ánh hào quang rực rỡ năm xưa.",
+    "slug": "crystal-holidays-harbour-van-don-vien-kim-cuong-bat-dong-san-thuong-cang",
+    "link": "/crystal-holidays-harbour-van-don-vien-kim-cuong-bat-dong-san-thuong-cang-pr-803127",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/cang2.jpg",
+    "postDate": "2024-05-21 07:50:00",
+    "modifiedDate": "2024-05-20 15:58:46",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 803029,
+    "title": "Khai Trương Cụm Nhà Mẫu Agora City “Sống Chuẩn Chất Âu”",
+    "excerpt": "Ngày 18/05/2024, Công ty Cổ phần Đầu tư Phát triển Thủ Thừa (Thủ Thừa Invest) chính thức Khai trương cụm nhà mẫu Agora City với chủ đề “Sống chuẩn chất Âu\". ",
+    "slug": "khai-truong-cum-nha-mau-agora-city-song-chuan-chat-au",
+    "link": "/khai-truong-cum-nha-mau-agora-city-803029",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/Picture1.png",
+    "postDate": "2024-05-20 09:38:43",
+    "modifiedDate": "2024-05-20 10:02:12",
+    "location": "long-an",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 802976,
+    "title": "Thị Trường Thái Nguyên “Dậy Sóng” Với Lễ Kick-Off Sản Phẩm Đất Nền Shophouse Liền Kề KCN Samsung",
+    "excerpt": "Lễ kick off sản phẩm đất nền Shophouse liền kề KCN Samsung Thái Nguyên được tổ chức ngày 15/05/2024 đã làm “bừng tỉnh” thị trường BĐS cửa ngõ phía Tây Thủ đô trong bối cảnh dòng tiền đang quay trở lại kênh đầu tư “vua”. ",
+    "slug": "thi-truong-thai-nguyen-day-song-voi-le-kick-off-san-pham-dat-nen-shophouse-lien-ke-kcn-samsung-pr",
+    "link": "/thi-truong-thai-nguyen-day-song-voi-le-kick-off-san-pham-dat-nen-shophouse-lien-ke-kcn-samsung-802976",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/image-7.png",
+    "postDate": "2024-05-18 07:50:00",
+    "modifiedDate": "2024-05-20 16:04:37",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 802920,
+    "title": "Khánh Hoà: Thị Trường Bất Động Sản Khởi Sắc, Nhà Đầu Tư Quay Trở Lại",
+    "excerpt": "Nhiều quy hoạch quan trọng được phê duyệt gần đây đã giúp thị trường bất động sản Khánh Hòa khởi sắc, nhà đầu tư quay trở lại thị trường.",
+    "slug": "khanh-hoa-thi-truong-bat-dong-san-khoi-sac-nha-dau-tu-quay-tro-lai",
+    "link": "/khanh-hoa-thi-truong-bat-dong-san-khoi-sac-nha-dau-tu-quay-tro-lai-pr-802920",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/z5446557083171_8c19f38f89c41efa35b30ca6cd681c66.jpg",
+    "postDate": "2024-05-17 07:50:00",
+    "modifiedDate": "2024-05-17 09:37:57",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 802933,
+    "title": "Chung Cư Hạ Nhiệt, Có Nên Mua Lúc Này?",
+    "excerpt": "Sau khi tăng mạnh lực cầu vào tháng 3, thị trường chung cư trong tháng 4 đã hạ nhiệt, tuy nhiên giá vẫn chưa giảm. Nên mua hay tiếp tục chờ đợi là vấn đề được nhiều người quan tâm. ",
+    "slug": "chung-cu-ha-nhiet-co-nen-mua-luc-nay",
+    "link": "/chung-cu-ha-nhiet-co-nen-mua-luc-nay-802933",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/chung-cu-2-tin-tuc.jpg",
+    "postDate": "2024-05-16 17:14:59",
+    "modifiedDate": "2024-05-17 15:43:04",
+    "location": "null",
+    "author": {
+      "id": 444,
+      "name": "Hải Âu",
+      "slug": "suongntn",
+      "link": "/suongntn",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      },
+      {
+        "id": 520,
+        "name": "Diễn biến thị trường BĐS 2024",
+        "slug": "dien-bien-thi-truong-bds-2024",
+        "link": "/dien-bien-thi-truong-bds-2024",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 802840,
+    "title": "“Kho Báu” Vô Giá Nằm Dưới Làn Nước Trong Xanh Tại Libera Nha Trang",
+    "excerpt": "Công viên san hô Vạn San Đảo chính là lời khẳng định của chủ đầu tư dự án Libera Nha Trang trong cam kết phát triển dự án xanh và bền vững, xuyên suốt hành trình làm đẹp các vùng đất, bảo tồn những giá trị văn hóa bản địa và khôi phục tài nguyên thiên nhiên.",
+    "slug": "kho-bau-vo-gia-nam-duoi-lan-nuoc-trong-xanh-tai-libera-nha-trang",
+    "link": "/kho-bau-vo-gia-nam-duoi-lan-nuoc-trong-xanh-tai-libera-nha-trang-pr-802840",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/z5445324963909_9def4c265b6c63de5898eb897aa8c2ac.jpg",
+    "postDate": "2024-05-16 13:50:00",
+    "modifiedDate": "2024-05-16 15:28:02",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 802816,
+    "title": "Chiết Khấu “Sâu”, Ưu Đãi Lớn Cho Người Mua Nhà",
+    "excerpt": "Việc các ngân hàng đồng loạt giảm lãi suất cho vay, cùng với nhiều chủ đầu tư “mạnh tay” chiết khấu, ưu đãi lớn được đánh giá là cơ hội tốt cho người mua nhà thời điểm này. ",
+    "slug": "802816",
+    "link": "/chiet-khau-sau-uu-dai-lon-cho-nguoi-mua-nha-pr-802816",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/20-scaled.jpg",
+    "postDate": "2024-05-16 09:00:00",
+    "modifiedDate": "2024-05-16 08:26:47",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 802785,
+    "title": "Vị Thế Của Phổ Yên Trên Bản Đồ Công Nghiệp Miền Bắc",
+    "excerpt": "Tuy là địa phương công nghiệp “sinh sau đẻ muộn” nhưng Phổ Yên (Thái Nguyên) đang ngày càng chứng tỏ mình là “chiến mã” trong cuộc đua thu hút vốn đầu tư FDI, khẳng định vị thế của mình trên bản đồ công nghiệp miền Bắc. Thị trường bất động sản Phổ Yên cũng vì thế mà bắt đầu trở nên sôi động, thu hút sự quan tâm của giới đầu tư.             ",
+    "slug": "vi-the-cua-pho-yen-tren-ban-do-cong-nghiep-mien-bac",
+    "link": "/vi-the-cua-pho-yen-tren-ban-do-cong-nghiep-mien-bac-802785",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/1-3.jpg",
+    "postDate": "2024-05-16 07:50:00",
+    "modifiedDate": "2024-05-16 12:29:54",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 801655,
+    "title": "Sức Mua Căn Hộ Vẫn Rất Lớn",
+    "excerpt": "Nhu cầu mua căn hộ chung cư giá dưới 3 tỷ đồng tại nhiều thị trường vẫn đang khá cao do sản phẩm này đánh trúng nhu cầu mua ở thực.",
+    "slug": "suc-cau-can-ho-van-rat-lon-cd-hcm",
+    "link": "/suc-mua-can-ho-van-rat-lon-cd-hcm-801655",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/416540651_1036891427524421_7945532432519513113_n.jpg",
+    "postDate": "2024-05-15 14:25:00",
+    "modifiedDate": "2024-05-16 14:54:04",
+    "location": "hcmc",
+    "author": {
+      "id": 496,
+      "name": "Như Ý",
+      "slug": "uyennguyen",
+      "link": "/uyennguyen",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 797772,
+    "title": "Thị Trường BĐS Quảng Ninh Tháng 4/2024: Những Con Số Tăng Trưởng Ấn Tượng",
+    "excerpt": "Thị trường bất động sản Quảng Ninh tháng 4/2024 đã có sự bứt tốc đầy ngoạn mục về tất cả các chỉ số. Dấu hiệu phục hồi và khởi sắc của thị trường bất động sản Quảng Ninh đang ngày càng rõ nét.",
+    "slug": "thi-truong-bat-dong-san-quang-ninh-thang-2-2024-giam-sau-tren-toan-thi-truong",
+    "link": "/thi-truong-bat-dong-san-quang-ninh-evr-797772",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/03/quang-ninh-1.jpg",
+    "postDate": "2024-05-15 08:05:00",
+    "modifiedDate": "2024-05-15 08:10:28",
+    "location": "quang-ninh",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      },
+      {
+        "id": 505,
+        "name": "quy hoạch Quảng Ninh",
+        "slug": "quy-hoach-quang-ninh",
+        "link": "/quy-hoach-quang-ninh",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 802515,
+    "title": "Bất Động Sản Bến Cát Vào Tầm Ngắm Nhà Đầu Tư",
+    "excerpt": "Các chuyên gia đánh giá thị trường bất động sản Bình Dương vẫn còn nhiều tiềm năng phát triển dài hạn. Trong đó, Bến Cát nhờ vị trí liền kề thành phố mới Bình Dương và hạ tầng giao thông, công nghiệp phát triển mạnh, đang trở thành “thỏi nam châm” thu hút các nhà đầu tư bất động sản.",
+    "slug": "bat-dong-san-ben-cat-vao-tam-ngam-nha-dau-tu",
+    "link": "/bat-dong-san-ben-cat-vao-tam-ngam-nha-dau-tu-pr-802515",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/Picture2.jpg",
+    "postDate": "2024-05-15 07:50:00",
+    "modifiedDate": "2024-05-14 09:38:27",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 802644,
+    "title": "Nhà Đầu Tư \"Mắc Cạn\" Vì Lướt Sóng Chung Cư Hà Nội",
+    "excerpt": "Đà tăng giá liên tiếp của chung cư trong 3 năm gần đây và đặc biệt các bước nhảy mạnh về giá thời điểm sau Tết Nguyên đán đã hình thành làn sóng lướt sóng chung cư. Tuy nhiên, đến thời điểm hiện tại, nhiều nhà đầu tư lướt sóng đang mắc cạn với các căn hộ.",
+    "slug": "nha-dau-tu-mac-can-vi-luot-song-chung-cu-ha-noi",
+    "link": "/luot-song-chung-cu-nha-dau-tu-ha-noi-mac-can-cd-hn-802644",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/anh-chung-cu-1.jpg",
+    "postDate": "2024-05-15 07:43:00",
+    "modifiedDate": "2024-05-15 07:54:52",
+    "location": "hanoi",
+    "author": {
+      "id": 439,
+      "name": "Nguyễn Nam",
+      "slug": "annt1",
+      "link": "/annt1",
+      "profilePhoto": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2023/03/ngan-hang-1.jpeg",
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 354,
+        "name": "Bất động sản Hà Nội",
+        "slug": "bat-dong-san-ha-noi",
+        "link": "/bat-dong-san-ha-noi",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 794652,
+    "title": "Những Thông Tin Đáng Chú Ý Của Thị Trường BĐS Tháng 4/2024",
+    "excerpt": "Những thông tin mới nhất về thị trường bất động sản tháng 4/2024 từ báo báo thị trường của Batdongsan.com.vn: giá bán, nguồn cung và mức độ quan tâm tìm kiếm. ",
+    "slug": "toan-canh-thi-truong-bat-dong-san-thang-2-2024",
+    "link": "/thi-truong-bat-dong-san-evr-794652",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/imperia-solar-park.png",
+    "postDate": "2024-05-14 11:01:00",
+    "modifiedDate": "2024-05-17 16:32:49",
+    "location": "null",
+    "author": {
+      "id": 444,
+      "name": "Hải Âu",
+      "slug": "suongntn",
+      "link": "/suongntn",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": [
+      {
+        "id": 352,
+        "name": "Báo cáo thị trường Batdongsan.com.vn",
+        "slug": "bao-cao-thi-truong-batdongsan-com-vn",
+        "link": "/bao-cao-thi-truong-batdongsan-com-vn",
+        "__typename": "Tag"
+      },
+      {
+        "id": 520,
+        "name": "Diễn biến thị trường BĐS 2024",
+        "slug": "dien-bien-thi-truong-bds-2024",
+        "link": "/dien-bien-thi-truong-bds-2024",
+        "__typename": "Tag"
+      }
+    ],
+    "profiles": null,
+    "__typename": "Article"
+  },
+  {
+    "id": 802602,
+    "title": "Năng Lực Cạnh Tranh Tăng 8 Bậc Trong Một Năm, Long An Khẳng Định Hấp Lực Đầu Tư",
+    "excerpt": "Long An đã vươn lên vị trí thứ 2 trên bảng xếp hạng PCI năm 2023 và đạt điểm cao nhất từ trước đến nay với 70,94 điểm.",
+    "slug": "nang-luc-canh-tranh-tang-8-bac-trong-mot-nam-long-an-khang-dinh-hap-luc-dau-tu",
+    "link": "/nang-luc-canh-tranh-tang-8-bac-trong-mot-nam-long-an-khang-dinh-hap-luc-dau-tu-pr-802602",
+    "featuredImage": "https://angel-prod-public-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/7/2024/05/Hi%CC%80nh-1-PR08.jpg",
+    "postDate": "2024-05-14 10:50:00",
+    "modifiedDate": "2024-05-14 10:17:17",
+    "location": "null",
+    "author": {
+      "id": 424,
+      "name": "Ban nội dung",
+      "slug": "bdseditorial",
+      "link": "/bdseditorial",
+      "profilePhoto": null,
+      "__typename": "Author"
+    },
+    "sponsor": {
+      "slug": null,
+      "name": "",
+      "picture": null,
+      "bio": "",
+      "__typename": "Sponsor"
+    },
+    "category": [
+      {
+        "id": 201,
+        "name": "News",
+        "slug": "news",
+        "link": "news",
+        "__typename": "Category"
+      }
+    ],
+    "tags": null,
+    "profiles": null,
+    "__typename": "Article"
+  }
+]
