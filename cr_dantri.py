@@ -59,7 +59,7 @@ finally:
     current_date = datetime.now().strftime("%Y%m%d")
 
     # Specify the Excel file path with current date added
-    excel_file_path = f'excel_dantri_{current_date}.xlsx'
+    excel_file_path = f'{current_date}_dantri.xlsx'
 
     # Save the DataFrame to the Excel file
     df.to_excel(excel_file_path, index=False, engine='openpyxl')

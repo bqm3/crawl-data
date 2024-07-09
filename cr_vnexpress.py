@@ -7,6 +7,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from datetime import datetime
 
 # Initialize Chrome WebDriver
 service = Service(executable_path="./chromedriver.exe")
@@ -58,8 +59,9 @@ df1['index_'] = np.arange(1, len(df1) + 1)
 # Print the DataFrame to check the data
 print(df1)
 
+current_date = datetime.now().strftime("%Y%m%d")
 # Save the DataFrame to an Excel file
-excel_file_path = 'excel_express2.xlsx'
+excel_file_path = f'{current_date}_vnexpress.xlsx'
 df1.to_excel(excel_file_path, index=False, engine='openpyxl')
 
 print(f"Data has been saved to {excel_file_path}")

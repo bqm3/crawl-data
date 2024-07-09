@@ -59,7 +59,7 @@ print(df)
 current_date = datetime.now().strftime("%Y%m%d")
 
 # Specify the Excel file path with current date added
-excel_file_path = f'excel_tuoitre_{current_date}.xlsx'
+excel_file_path = f'{current_date}_tuoitre.xlsx'
 df.to_excel(excel_file_path, index=False, engine='openpyxl')
 
 print(f"Data has been saved to {excel_file_path}")
