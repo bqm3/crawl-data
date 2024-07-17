@@ -114,3 +114,5 @@ excel_file_path = f'{current_date}_cafe_with_content.xlsx'
 df.to_excel(excel_file_path, index=False, engine='openpyxl')
 
 print(f"Data has been saved to {excel_file_path}")
+
+# py cr_content_cafe.py
