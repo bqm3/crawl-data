@@ -14,7 +14,7 @@ from datetime import datetime
 service = Service(executable_path="./chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 
-# Open the specified webpage
+# Thay đổi link website ở đây
 driver.get('https://thanhnien.vn/kinh-te.htm')
 random.randint(3, 5)  # Wait for the page to load initially
 
@@ -49,7 +49,7 @@ df['Tags'] = ''
 df['Ngày'] = ''
 
 num_rows = len(df)
-# Iterate through each row in the DataFrame to get content from the links
+# Thay đổi số trang web chi tiết ở đây
 max_rows = 10 if num_rows > 10 else num_rows
 
 # Iterate through each row in the DataFrame

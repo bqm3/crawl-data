@@ -17,7 +17,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 service = Service(executable_path="./chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 
-# Open the specified webpage
+# Thay đổi link website ở đây
 driver.get('https://soha.vn/kinh-doanh.htm')
 random.randint(3, 5)  # Wait for the page to load initially
 
