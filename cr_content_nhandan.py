@@ -36,7 +36,7 @@ scroll_down()
 
 
 # Find elements with product titles and links
-elems = driver.find_elements(By.CSS_SELECTOR, '.story h2 a')
+elems = driver.find_elements(By.CSS_SELECTOR, '.story h3 a')
 title = [elem.text for elem in elems]
 links = [elem.get_attribute('href') for elem in elems]
 
@@ -62,19 +62,19 @@ for index, row in df.head(max_rows).iterrows():
     time.sleep(random.uniform(2, 4))
 
     try:
-        # elements_with_tags = driver.find_elements(By.XPATH, "//*[contains(@class, 'detail-tab')]")
+        elements_with_tags = driver.find_elements(By.CSS_SELECTOR, "")
         
-        # # Get <a> tags from the elements containing 'tags'
-        # a_texts = []
-        # for element in elements_with_tags:
-        #     a_tags = element.find_elements(By.TAG_NAME, 'a')
-        #     for a in a_tags:
-        #         text = a.text.strip()
-        #         if text:  # Only add if text is not empty
-        #             a_texts.append(text)
+        # Get <a> tags from the elements containing 'tags'
+        a_texts = []
+        for element in elements_with_tags:
+            a_tags = element.find_elements(By.TAG_NAME, 'a')
+            for a in a_tags:
+                text = a.text.strip()
+                if text:  # Only add if text is not empty
+                    a_texts.append(text)
         
-        # # Save text of the <a> tags to the 'Tags' column, each text separated by a comma
-        # df.at[index, 'Tags'] = ', '.join(a_texts)
+        # Save text of the <a> tags to the 'Tags' column, each text separated by a comma
+        df.at[index, 'Tags'] = ', '.join(a_texts)
 
         date_div = driver.find_element(By.CSS_SELECTOR, ".article__meta .time")
         df.at[index, 'Ngày'] = date_div.text.strip() if date_div else 'N/A'

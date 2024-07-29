@@ -50,7 +50,7 @@ df['Ngày'] = ''
 
 num_rows = len(df)
 # Thay đổi số trang web chi tiết ở đây
-max_rows = 10 if num_rows > 10 else num_rows
+max_rows = 3 if num_rows > 3 else num_rows
 
 # Iterate through each row in the DataFrame
 for index, row in df.head(max_rows).iterrows():
@@ -78,8 +78,12 @@ for index, row in df.head(max_rows).iterrows():
 
         date_element = driver.find_element(By.CSS_SELECTOR, 'time.entry-date.updated.td-module-date')
 
-        print(date_element)
-        df.at[index, 'Ngày'] = date_element.text.strip() if date_element else 'N/A'
+        # Extract the datetime attribute value
+        date_value = date_element.get_attribute('datetime')
+        
+        
+        # Assign the extracted values to the 'Ngày' column in the DataFrame
+        df.at[index, 'Ngày'] = date_value if date_value else 'N/A'
 
 
         # Get detailed content from the page

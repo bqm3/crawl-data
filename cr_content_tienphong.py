@@ -5,7 +5,6 @@ import random
 import time
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from datetime import datetime
@@ -62,7 +61,7 @@ for index, row in df.head(max_rows).iterrows():
     time.sleep(random.uniform(2, 4))
 
     try:
-        elements_with_tags = driver.find_elements(By.XPATH, "//*[contains(@class, 'box-content')]")
+        elements_with_tags = driver.find_elements(By.CSS_SELECTOR, '.article__tag .box-content')
         
         # Get <a> tags from the elements containing 'tags'
         a_texts = []
