@@ -47,6 +47,8 @@ df = pd.DataFrame(list(zip(title, links)), columns=['Tiêu đề', 'Link'])
 # Create a new column in the DataFrame to store the detailed content
 
 df['Ngày'] = ''
+df['Content'] = ''
+df['Tags'] = ''
 
 # Thay đổi số trang web chi tiết ở đây
 num_rows = len(df)
